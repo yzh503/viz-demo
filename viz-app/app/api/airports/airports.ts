@@ -1,8 +1,5 @@
 import { MongoClient, ServerApiVersion }from 'mongodb';
 import { graphql, buildSchema } from 'graphql';
-import countries from 'i18n-iso-countries';
-
-countries.registerLocale(require("i18n-iso-countries/langs/en.json"));
 
 const uri = `mongodb+srv://yzh503:${process.env.MONGO_PASS}@free.7wxgtjb.mongodb.net/?retryWrites=true&w=majority`;
 const mongoClient = new MongoClient(uri, {
