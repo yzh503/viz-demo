@@ -1,29 +1,34 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Suspense } from 'react'
-import BarChart from './BarChart';
+import { Datum, BarChart} from './BarChart';
 
-type Datum = {
-  _id: string;
-  count: number;
-};
 
-type FetchCallback = (error: Error | null, result?: { numberOfAirportsByCountry: Datum[] }) => void;
+type FetchCallback = (error: Error | null, result?: { hierarchicalAirports: [Datum] }) => void;
 
 const AirportByCountryPlot: React.FC = () => {
-  const [data, setData] = useState<{ country: string, airports: number }[]>([]);
+  const [data, setData] = useState<Datum>({name: "airports", children: []});
   const containerRef = useRef<HTMLDivElement>(null);
   const [containerWidth, setContainerWidth] = useState<number | null>(null);
-  const [isLoading, setIsLoading] = useState<boolean>(true);
 
   const fetchData = (callback: FetchCallback): void => {
-    setIsLoading(true);
-
     const graphqlQuery = {
       query: `
         {
-          numberOfAirportsByCountry(limit: 10) {
-            _id,
-            count
+          hierarchicalAirports {
+            name
+            children {
+              name
+              children {
+                name
+                children {
+                  name
+                  value
+                  children {
+                    name
+                    value
+                  }
+                }
+              }
+            }
           }
         }
       `
@@ -69,22 +74,15 @@ const AirportByCountryPlot: React.FC = () => {
         console.error('Error fetching data:', error);
         return;
       }
-
-      if (result && result.numberOfAirportsByCountry) {
-        const transformedData = result.numberOfAirportsByCountry.map(datum => ({
-          country: datum._id,
-          airports: datum.count
-        }));
-        console.log(transformedData);
-        setData(transformedData);
-        setIsLoading(true);
+      if (result && result.hierarchicalAirports) {
+        setData(result.hierarchicalAirports[0]);
       }
     });
   }, []);
 
   return (
-    <div ref={containerRef} className="group rounded-lg p-10 bg-white border">
-      <h2 className="mb-10 text-3xl font-semibold">Number of Airports</h2>
+    <div ref={containerRef} className="group rounded-lg p-20 bg-white border">
+      <h2 className="mb-10 text-3xl font-semibold">International Airports by Country</h2>
       { containerWidth && <BarChart data={data} width={containerWidth} /> }
     </div>
   );  

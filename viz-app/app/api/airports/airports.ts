@@ -15,24 +15,20 @@ const mongoClient = new MongoClient(uri, {
 
 const schema = buildSchema(`
   type Airport {
-    id: String
-    ident: String
-    type: String
-    name: String
-    latitude_deg: String
-    longitude_deg: String
-    elevation_ft: String
-    continent: String
-    iso_country: String
-    iso_region: String
-    municipality: String
-    scheduled_service: String
-    gps_code: String
-    iata_code: String
-    local_code: String
-    home_link: String
-    wikipedia_link: String
-    keywords: String
+    id: String,
+    name: String,
+    city: String,
+    country: String,
+    iata: String,
+    icao: String,
+    latitude: String,
+    longitude: String,
+    altitude: String,
+    timezone: String,
+    dst: String,
+    tz: String,
+    type: String,
+    source: String
   }
 
   type Country {
@@ -40,9 +36,16 @@ const schema = buildSchema(`
     count: Int
   }
 
+  type AirportHierarchy {
+    name: String,
+    value: Int,
+    children: [AirportHierarchy]
+  }
+
   type Query {
     airports: [Airport]
-    numberOfAirportsByCountry(limit: Int): [Country]
+    numberOfIntlAirportsByCountry(limit: Int): [Country]
+    hierarchicalAirports: [AirportHierarchy]
   }
 `);
 
@@ -50,7 +53,7 @@ async function getAirportData() {
   try {
     await mongoClient.connect();
     const db = mongoClient.db('free');
-    const collection = db.collection('airports');
+    const collection = db.collection('openflights.airports');
     const data = await collection.find({}).toArray();
     return data;
   } finally {
@@ -58,14 +61,14 @@ async function getAirportData() {
   }
 }
 
-async function getNumberOfAirportsByCountry(limit?: number) {
+async function getNumberOfIntlAirportsByCountry(limit?: number) {
   try {
     await mongoClient.connect();
     const db = mongoClient.db('free');
-    const collection = db.collection('airports');
+    const collection = db.collection('international-airports');
     
     let aggregationSteps = [
-      { $group: { _id: "$iso_country", count: { $sum: 1 } } },
+      { $group: { _id: "$country", count: { $sum: 1 } } },
       { $sort: { count: -1 } }
     ];
 
@@ -74,22 +77,29 @@ async function getNumberOfAirportsByCountry(limit?: number) {
     }
 
     let data = await collection.aggregate(aggregationSteps).toArray();
+    return data;
 
-    data = data.map(item => ({
-      ...item,
-      _id: countries.getName(item._id, "en") || item._id
-    }));
+  } finally {
+    await mongoClient.close();
+  }
+}
 
+async function getHierarchialAirportData() {
+  try {
+    await mongoClient.connect();
+    const db = mongoClient.db('free');
+    const collection = db.collection('international-airports-hierarchy');
+    const data = await collection.find({}).toArray();
     return data;
   } finally {
     await mongoClient.close();
   }
 }
 
-
 const rootValue = {
   airports: () => getAirportData(),
-  numberOfAirportsByCountry: ({ limit }: { limit?: number }) => getNumberOfAirportsByCountry(limit)
+  numberOfIntlAirportsByCountry: ({ limit }: { limit?: number }) => getNumberOfIntlAirportsByCountry(limit),
+  hierarchicalAirports: () => getHierarchialAirportData()
 }
 
 export async function getAirports(source: string) {
