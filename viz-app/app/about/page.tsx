@@ -6,6 +6,9 @@ function About() {
           <p className="text-gray-600">
             Welcome to the airport data analytics platform! We aim to provide you with insightful visualisation to the airport data from <a href="https://ourairports.com/data/">ourairports.com</a> and <a href="https://openflights.org">openflights.org</a>.
           </p>
+          <p className="text-gray-600">
+            <a href="https://github.com/yzh503/viz-demo">Source Code</a>
+          </p>
         </div>
       </div>
     );

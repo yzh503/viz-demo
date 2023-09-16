@@ -7,6 +7,9 @@ const config: Config = {
     './app/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
+    fontWeight: {
+      normal: '200'
+    },
     extend: {
       gridTemplateColumns: {
         'sidebar': '16rem auto',

@@ -1,0 +1,3100 @@
+name,number_of_routes,in,out
+London,2456,1224,1232
+Atlanta,1826,911,915
+Paris,1445,720,725
+Chicago,1379,682,697
+Shanghai,1236,620,616
+Beijing,1229,614,615
+New York,1227,613,614
+Moscow,1217,608,609
+Istanbul,1009,506,503
+Los Angeles,990,498,492
+Frankfurt,990,493,497
+Dallas-Fort Worth,936,467,469
+Amsterdam,903,450,453
+Tokyo,890,447,443
+Singapore,820,412,408
+Seoul,818,409,409
+Barcelona,805,403,402
+Dubai,802,398,404
+Bangkok,790,397,393
+Washington,774,382,392
+Rome,762,381,381
+Denver,735,374,361
+Miami,734,366,368
+Munich,728,360,368
+Hong Kong,710,355,355
+Guangzhou,674,336,338
+Toronto,664,331,333
+Madrid,661,331,330
+Chengdu,647,323,324
+Houston,634,312,322
+Brussels,631,315,316
+Manchester,627,311,316
+Vienna,616,308,308
+Taipei,607,303,304
+Charlotte,600,299,301
+Berlin,583,292,291
+Philadelphia,576,287,289
+Kuala Lumpur,572,286,286
+Duesseldorf,570,285,285
+Xi'an,563,280,283
+Stockholm,555,278,277
+Palma de Mallorca,548,277,271
+Kunming,545,272,273
+Chongqing,540,270,270
+Delhi,527,263,264
+Phoenix,508,257,251
+Hangzhou,506,254,252
+Newark,505,252,253
+San Francisco,499,250,249
+Las Vegas,498,252,246
+Zurich,494,247,247
+Mexico City,485,242,243
+Abu Dhabi,485,240,245
+Sao Paulo,481,241,240
+Orlando,475,238,237
+Shenzhen,467,233,234
+Xiamen,466,233,233
+Copenhagen,457,228,229
+Mumbai,452,225,227
+Lisbon,435,221,214
+Detroit,433,217,216
+St. Petersburg,430,215,215
+Minneapolis,430,212,218
+Boston,424,212,212
+Dublin,414,207,207
+Sydney,414,204,210
+Malaga,410,204,206
+Seattle,407,204,203
+Athens,405,207,198
+Osaka,388,194,194
+Milano,386,194,192
+Manila,386,193,193
+Tenerife,384,193,191
+Montreal,379,190,189
+Changcha,377,188,189
+Doha,377,188,189
+Jeddah,377,183,194
+Qingdao,376,188,188
+Fort Lauderdale,374,188,186
+Wuhan,374,187,187
+Jakarta,367,182,185
+Oslo,363,183,180
+Prague,361,181,180
+Zhengzhou,348,174,174
+Birmingham,335,166,169
+Nanjing,330,165,165
+Geneva,329,163,166
+Johannesburg,329,166,163
+Hamburg,323,161,162
+Helsinki,320,161,159
+Vancouver,317,158,159
+Alicante,314,157,157
+Cancun,311,154,157
+Gran Canaria,308,154,154
+Bogota,307,155,152
+Urumqi,306,153,153
+Cairo,303,152,151
+Brisbane,296,144,152
+Nairobi,295,146,149
+Tianjin,294,147,147
+Warsaw,292,146,146
+Baltimore,286,144,142
+Dalian,285,143,142
+Melbourne,281,138,143
+Salt Lake City,278,137,141
+Buenos Aires,277,137,140
+Tel-aviv,277,138,139
+Riyadh,276,139,137
+Tampa,276,138,138
+Lyon,275,140,135
+Guiyang,274,137,137
+Stuttgart,273,136,137
+San Jose,273,135,138
+Shenyang,272,136,136
+Jinan,270,135,135
+Nice,269,134,135
+Fuzhou,266,133,133
+Marseille,265,129,136
+Cologne,265,131,134
+Harbin,259,130,129
+Rio De Janeiro,255,127,128
+Antalya,253,126,127
+Portland,251,135,116
+Casablanca,250,125,125
+Santiago,250,124,126
+New Orleans,248,125,123
+Kiev,246,122,124
+Venice,245,123,122
+Kuwait,239,119,120
+San Diego,238,119,119
+Edinburgh,237,118,119
+Arrecife,233,117,116
+Catania,233,118,115
+Honolulu,233,115,118
+Lima,230,115,115
+Nanning,228,114,114
+Calgary,228,113,115
+Bucharest,227,115,112
+Malta,226,113,113
+Panama City,226,113,113
+Amman,223,112,111
+St. Louis,221,107,114
+Taiyuan,220,110,110
+Heraklion,219,109,110
+Ho Chi Minh City,218,109,109
+Sanya,218,109,109
+Haikou,215,107,108
+Addis Ababa,214,109,105
+Guilin,214,107,107
+Auckland,213,117,96
+Faro,211,105,106
+Madras,211,104,107
+San Juan,208,104,104
+Muscat,208,104,104
+Colombo,203,102,101
+Ibiza,202,103,99
+Porto,202,102,100
+Riga,202,101,101
+Denpasar,201,101,100
+Bristol,200,100,100
+Yekaterinburg,199,101,98
+Glasgow,198,97,101
+Brasilia,197,99,98
+Sharjah,195,98,97
+Budapest,195,97,98
+Bangalore,195,98,97
+Kolkata,194,97,97
+East Midlands,192,97,95
+Fuerteventura,192,95,97
+Larnaca,190,97,93
+Mulhouse,189,94,95
+Guadalajara,185,92,93
+Nantes,183,91,92
+Valencia,183,91,92
+Perth,182,90,92
+Nagoya,181,91,90
+Caracas,181,91,90
+Newcastle,181,89,92
+Novosibirsk,177,90,87
+Bologna,176,88,88
+Algier,176,88,88
+Tunis,175,88,87
+Hanoi,174,87,87
+Hohhot,174,87,87
+Thessaloniki,174,87,87
+Nanchang,172,86,86
+Belgrade,171,85,86
+Fukuoka,170,85,85
+Bahrain,170,86,84
+Charleroi,168,84,84
+Ninbo,168,84,84
+Lanzhou,168,84,84
+Rhodos,168,86,82
+Raleigh-durham,167,84,83
+Austin,167,84,83
+Dammam,164,82,82
+Nashville,164,82,82
+Shijiazhuang,164,82,82
+Bergamo,162,81,81
+Wenzhou,162,81,81
+Sapporo,162,81,81
+Cleveland,161,80,81
+Toulouse,161,83,78
+Busan,160,80,80
+Leeds,160,80,80
+Naples,160,80,80
+Tashkent,160,79,81
+Kansas City,159,77,82
+Macau,158,79,79
+Cincinnati,156,78,78
+Hefei,154,77,77
+Hannover,152,76,76
+Pisa,152,76,76
+Dhaka,148,74,74
+Gothenborg,148,75,73
+Pittsburgh,148,74,74
+Monterrey,145,73,72
+Marrakech,145,72,73
+Punta Cana,143,70,73
+Luxemburg,140,70,70
+Edmonton,139,71,68
+San Antonio,138,69,69
+Phuket,138,67,71
+Columbus,138,70,68
+Indianapolis,138,69,69
+Bergen,137,68,69
+Belo Horizonte,135,67,68
+Nassau,135,68,67
+Eindhoven,135,67,68
+Bordeaux,134,67,67
+Alma-ata,134,67,67
+Dakar,134,67,67
+Beirut,133,66,67
+Izmir,133,67,66
+Sofia,132,66,66
+Changchun,131,67,64
+Yinchuan,131,66,65
+Surabaya,131,66,65
+Lijiang,129,64,65
+Kaohsiung,129,64,65
+Bilbao,128,63,65
+Baku,128,64,64
+Mashhad,128,63,65
+Fort Myers,128,65,63
+Sevilla,127,62,65
+Kochi,126,63,63
+Palermo,126,63,63
+Milwaukee,125,60,65
+Karachi,125,63,62
+Teheran,125,63,62
+Okinawa,123,62,61
+Tehran,122,62,60
+Dubrovnik,121,61,60
+Beauvais,120,60,60
+Milan,120,60,60
+Zhuhai,119,59,60
+Lagos,119,59,60
+Anchorage,118,59,59
+Cheju,118,59,59
+Islamabad,117,59,58
+Dalaman,116,59,57
+Liverpool,116,58,58
+Salvador,116,58,58
+Vilnius,116,58,58
+Krakow,114,57,57
+Philipsburg,114,56,58
+Campinas,114,57,57
+Memphis,112,54,58
+Yantai,112,56,56
+Ujung Pandang,112,56,56
+Belfast,112,55,57
+Lahore,111,55,56
+Oakland,111,57,54
+Florence,110,55,55
+Cairns,110,54,56
+Sacramento,108,53,55
+Minsk 2,108,54,54
+Accra,107,53,54
+Dushanbe,106,54,52
+Stavanger,106,52,54
+San Salvador,105,52,53
+Ankara,105,53,52
+Olbia,104,52,52
+Funchal,104,52,52
+Kota Kinabalu,104,52,52
+Tselinograd,104,52,52
+Kerkyra/corfu,103,53,50
+Windsor Locks,103,52,51
+Adelaide,102,51,51
+Abidjan,102,52,50
+Port Moresby,102,50,52
+Santo Domingo,101,52,49
+San Jose Del Cabo,101,50,51
+Gdansk,101,50,51
+Bari,100,50,50
+Bremen,100,50,50
+Xining,99,50,49
+Yangon,99,50,49
+Madinah,98,59,39
+Douala,98,47,51
+Gerona,98,49,49
+Split,97,48,49
+Sanford,97,48,49
+Cebu,97,48,49
+Nuernberg,95,47,48
+Halifax,95,52,43
+Chiang Mai,95,47,48
+Tripoli,95,47,48
+Billund,94,47,47
+Wuxi,94,47,47
+Hahn,94,47,47
+Alexandria,93,45,48
+Krasnoyarsk,92,47,45
+Puerto Vallarta,92,45,47
+Oranjestad,92,47,45
+Luanda,92,46,46
+Keflavik,91,46,45
+Jacksonville,91,45,46
+Krasnodar,91,45,46
+Kos,90,47,43
+Santa Ana,90,46,44
+Bishkek,90,45,45
+Charleston,90,50,40
+Enfidha,90,45,45
+Chania,90,46,44
+Yerevan,90,45,45
+Darwin,90,44,46
+Montego Bay,89,44,45
+Ottawa,89,44,45
+West Palm Beach,88,44,44
+Kathmandu,88,44,44
+Quanzhou,88,44,44
+Havana,87,42,45
+Trondheim,86,42,44
+Porto Alegre,86,44,42
+Cape Town,86,42,44
+Curitiba,86,43,43
+Cagliari,86,43,43
+Torino,86,42,44
+Male,85,41,44
+Paphos,85,43,42
+Zagreb,85,43,42
+Aberdeen,84,42,42
+Trivandrum,84,42,42
+Kahului,84,42,42
+Penang,84,42,42
+Louisville,83,42,41
+Nandi,83,40,43
+Tijuana,83,41,42
+Albuquerque,83,41,42
+Plaisance,82,41,41
+Irkutsk,82,41,41
+Oklahoma City,81,41,40
+Winnipeg,81,40,41
+Khartoum,81,40,41
+Siem-reap,81,39,42
+Lille,80,40,40
+Cotonou,80,39,41
+Hurghada,79,39,40
+Leipzig,79,39,40
+Quito,78,39,39
+Richmond,78,39,39
+Kigali,78,38,40
+Ajaccio,78,39,39
+Shiraz,78,39,39
+Villafranca,77,38,39
+Guatemala City,77,40,37
+Papeete,77,39,38
+Sharm El Sheikh,77,39,38
+Tallinn-ulemiste International,76,38,38
+Yakutsk,76,38,38
+Jersey,76,38,38
+Treviso,76,38,38
+Weeze,76,38,38
+Sanaa,75,38,37
+Khabarovsk,75,37,38
+Dallas,75,36,39
+Rygge,74,37,37
+Norfolk,74,38,36
+Sandefjord,74,37,37
+Albany,74,36,38
+Changzhou,74,37,37
+Djerba,73,36,37
+Bastia,72,36,36
+Recife,72,36,36
+Tirana,72,36,36
+Balikpapan,72,36,36
+Christchurch,72,38,34
+Buffalo,71,35,36
+Fortaleza,71,35,36
+Guayaquil,71,36,35
+Shantou,71,36,35
+La Paz,71,35,36
+Belem,70,34,36
+Agana,70,35,35
+Port-of-spain,70,35,35
+Ahmedabad,70,35,35
+Menorca,70,36,34
+Salzburg,69,35,34
+Antigua,69,34,35
+Tbilisi,69,35,34
+Georgetown,69,35,34
+Strasbourg,69,35,34
+Omaha,69,35,34
+Myrtle Beach,68,34,34
+Chisinau,68,34,34
+Cork,68,34,34
+Pune,68,35,33
+Rochester,68,34,34
+Oran,68,34,34
+Dortmund,67,34,33
+Dar Es Salaam,67,32,35
+Entebbe,67,33,34
+Lusaka,67,33,34
+Khudzhand,66,33,33
+Ouagadougou,66,33,33
+Southampton,66,33,33
+Danang,66,33,33
+Cuiaba,66,33,33
+Wroclaw,66,33,33
+Ljubljana,66,33,33
+Rotterdam,66,33,33
+St. Thomas,66,32,34
+Mesa,64,32,32
+Wellington,64,32,32
+Greenville,64,32,32
+Manaus,64,32,32
+Dayton,64,32,32
+Guwahati,63,32,31
+Cardiff,63,31,32
+Willemstad,63,32,31
+Bodrum,63,32,31
+Providenciales,62,31,31
+Knoxville,62,31,31
+Tucson,62,31,31
+Sendai,62,31,31
+Alghero,62,31,31
+Santa Cruz,62,31,31
+Phnom-penh,61,32,29
+Calicut,61,30,31
+Kingston,60,29,31
+Lhasa,60,30,30
+Osh,60,29,31
+Peshawar,60,30,30
+Erbil,60,30,30
+Abuja,60,30,30
+Yellowknife,58,28,30
+Taichung,58,29,29
+Shannon,58,29,29
+Yuncheng,58,29,29
+Pointe-a-pitre,58,29,29
+Goa,58,29,29
+Baotou,58,29,29
+Yogyakarta,58,29,29
+Little Rock,58,29,29
+Bethel,57,28,29
+Des Moines,57,28,29
+Quebec,57,29,28
+Cali,57,27,30
+Harare,57,31,26
+Rostov,56,28,28
+Reno,56,29,27
+Kazan,56,28,28
+Katowice,56,28,28
+Belize City,56,28,28
+Trapani,56,28,28
+Port-vila,56,28,28
+Grand Rapids,56,28,28
+Coolangatta,56,28,28
+Agadir,56,28,28
+Providence,55,28,27
+Tulsa,55,28,27
+Kinshasa,55,28,27
+Bamako,55,27,28
+Batam,54,27,27
+Kabul,54,26,28
+Samara,54,27,27
+Antananarivo,54,27,27
+Fairbanks,54,27,27
+Syracuse,52,26,26
+Huangshan,52,26,26
+Kuching,52,26,26
+Rio Negro,52,26,26
+Tromso,52,26,26
+Sochi,52,26,26
+Zadar,52,26,26
+Vladivostok,52,26,26
+Palm Springs,51,25,26
+Brazzaville,51,26,25
+Greensboro,51,26,25
+Vientiane,50,25,25
+Lamezia,50,25,25
+Ontario,50,26,24
+Dongsheng,50,25,25
+Benghazi,50,25,25
+Exeter,49,24,25
+Nome,49,24,25
+Miri,48,24,24
+Hermosillo,48,23,25
+Jinghonggasa,48,24,24
+Skopje,48,24,24
+Montpellier,48,24,24
+Honiara,48,23,25
+Ahwaz,48,24,24
+Bentonville,48,24,24
+Rankin Inlet,48,23,25
+Port-au-prince,48,24,24
+Yichang,48,24,24
+Libreville,48,24,24
+El Paso,47,23,24
+Ponta Delgada,47,24,23
+San Pedro Sula,46,23,23
+Fort-de-france,46,23,23
+Ufa,46,23,23
+Bandar Seri Begawan,46,23,23
+Bridgetown,46,23,23
+Montevideo,46,23,23
+Savannah,46,23,23
+White Plains,46,23,23
+Memmingen,46,23,23
+Kotzebue,45,23,22
+Liberia,45,21,24
+Tyumen,45,23,22
+Dresden,44,22,22
+Brindisi,44,22,22
+Sept-iles,44,22,22
+Ketchikan,44,22,22
+Windhoek,44,22,22
+Mineralnye Vody,44,22,22
+Akron,44,22,22
+Freetown,44,22,22
+Aden,44,21,23
+Mianyang,43,21,22
+Goiania,43,22,21
+St. John's,43,21,22
+Noumea,43,22,21
+Jerez,43,21,22
+Manado,42,21,21
+Poznan,42,21,21
+Pristina,42,21,21
+Aktau,42,21,21
+Prestwick,42,21,21
+Cluj-napoca,42,21,21
+Durban,42,21,21
+Columbia,42,21,21
+Lihue,42,21,21
+Dayong,42,21,21
+Pensacola,42,21,21
+Bandung,42,21,21
+Florianopolis,42,21,21
+Lome,41,21,20
+Kilimanjaro,41,21,20
+Ulan Bator,41,20,21
+Kona,41,21,20
+Aalborg,41,21,20
+Boise,41,20,21
+Chelyabinsk,40,20,20
+Lexington KY,40,20,20
+Karlsruhe/Baden-Baden,40,20,20
+Manchester NH,40,20,20
+Juneau,40,20,20
+Beihai,40,20,20
+Wichita,40,20,20
+Jackson,40,20,20
+Xuzhou,40,20,20
+Bratislava,40,20,20
+St.-denis,40,21,19
+Murcia,40,20,20
+Djibouti,40,17,23
+Esfahan,40,20,20
+Fresno,40,20,20
+Calvi,40,20,20
+Genoa,40,20,20
+Porlamar,39,19,20
+Reus,39,20,19
+Harrisburg,39,19,20
+Wilmington,38,19,19
+Zhanjiang,38,19,19
+Kaunas,38,19,19
+Bournemouth,38,19,19
+Graz,38,19,19
+Yaounde,38,21,17
+Tanger,38,19,19
+Santander,38,19,19
+Ribeirao Preto,38,19,19
+Bandar Abbas,38,19,19
+Hewandorra,37,18,19
+Odessa,37,19,18
+Almeria,36,18,18
+Burbank,36,18,18
+Linyi,36,18,18
+Monrovia,36,18,18
+Conakry,36,18,18
+Kalibo,36,18,18
+Long Beach,36,18,18
+Kagoshima,36,18,18
+Pointe-noire,36,18,18
+Tegucigalpa,36,18,18
+Fes,36,18,18
+Johor Bahru,36,18,18
+Vishakhapatnam,36,18,18
+El Aroui,36,18,18
+Guernsey,36,18,18
+Hailar,36,18,18
+Yangzhou,36,18,18
+Nizhniy Novgorod,36,18,18
+Yiwu,36,18,18
+Ko Samui,36,18,18
+Iqaluit,36,18,18
+Asuncion,36,18,18
+Pekanbaru,36,18,18
+Lucknow,36,18,18
+Huntsville,36,18,18
+Bodo,35,17,18
+Jayapura,35,18,17
+Punta Gorda,35,17,18
+Dominica,35,18,17
+Cedar Rapids,35,18,17
+Amilcar Cabral,35,15,20
+Campo Grande,34,17,17
+Adana,34,17,17
+Yancheng,34,17,17
+Merida,34,17,17
+Omsk,34,17,17
+Hiroshima,34,17,17
+Langkawi,34,17,17
+Sioux Lookout,34,16,18
+Nagasaki,34,17,17
+Brest,34,17,17
+Kanazawa,34,17,17
+Niamey,34,17,17
+Coimbatore,34,17,17
+Lvov,34,17,17
+Maputo,34,17,17
+Boa Vista,34,19,15
+Semarang,34,17,17
+Aviles,34,17,17
+Madison,34,17,17
+"Praia, Santiago Island",34,17,17
+Jaipur,34,17,17
+Islip,33,16,17
+Kish Island,33,17,16
+Regina,33,17,16
+Zakynthos,33,17,16
+Key West,33,17,16
+Yuzhno-sakhalinsk,33,17,16
+Chihuahua,33,17,16
+Springfield,33,19,14
+Mandalay,33,16,17
+Constantine,32,16,16
+Niigata,32,16,16
+Changzhi,32,16,16
+Townsville,32,16,16
+Krabi,32,16,16
+Podgorica,32,16,16
+Vitoria,32,16,16
+Malmoe,32,16,16
+Indore,32,16,16
+Natal,32,16,16
+Vera Cruz,32,16,16
+Victoria,32,16,16
+Praya,32,16,16
+Jiuzhaigou,32,16,16
+Jingdezhen,32,16,16
+Cozumel,32,16,16
+Culiacan,32,16,16
+Chattanooga,32,16,16
+Baghdogra,32,16,16
+Sarajevo,32,16,16
+Lianyungang,32,16,16
+Chittagong,32,16,16
+Novy Urengoy,32,16,16
+Fort Wayne,32,16,16
+Mangalore,31,16,15
+Thira,31,16,15
+Monastir,31,16,15
+Sao Luis,31,15,16
+Wabush,31,15,16
+Burlington,31,16,15
+Kaliningrad,30,15,15
+Saskatoon,30,15,15
+Roanoke VA,30,15,15
+Peoria,30,15,15
+Kelowna,30,15,15
+Dzaoudzi,30,15,15
+Chifeng,30,15,15
+Freeport,30,15,15
+Donetsk,30,15,15
+Mazatlan,30,15,15
+Pula,30,15,15
+Tallahassee,30,15,15
+Bermuda,30,15,15
+Goose Bay,30,15,15
+Spokane,30,15,15
+Wuyishan,30,15,15
+Tabriz,30,15,15
+Zunyi,30,15,15
+Moline,30,15,15
+Ashkhabad,30,15,15
+Nagpur,30,15,15
+Uberlandia,30,15,15
+Connaught,30,15,15
+Point Salines,29,15,14
+Puerto Plata,29,13,16
+Norilsk,29,14,15
+Banjarmasin,29,14,15
+Managua,29,14,15
+Del Bajio,29,15,14
+Abha,29,14,15
+Srinagar,29,15,14
+Yanji,28,14,14
+Dnepropetrovsk,28,14,14
+Quetta,28,14,14
+Trenton,28,14,14
+Huangyan,28,14,14
+Nizhnevartovsk,28,14,14
+Liuzhou,28,14,14
+Ambon,28,14,14
+Kota Bahru,28,14,14
+Figari,28,14,14
+Baghdad,28,14,14
+Davao,28,14,14
+Fargo,28,14,14
+Biarritz-bayonne,28,14,14
+Maracaibo,28,14,14
+Ishigaki,28,14,14
+Santarem,28,13,15
+Malabo,28,14,14
+Marsh Harbor,28,14,14
+Roatan,28,13,15
+Surgut,28,14,14
+Southend,28,14,14
+Nicosia,28,14,14
+Eugene,27,13,14
+Palembang,27,13,14
+Bujumbura,27,14,13
+Avarua,27,13,14
+Thunder Bay,27,14,13
+Colorado Springs,27,14,13
+Toluca,27,14,13
+Angeles City,26,13,13
+Mykonos,26,13,13
+Sarasota,26,13,13
+Villahermosa,26,13,13
+Maceio,26,13,13
+Xiangfan,26,13,13
+Ganzhou,26,13,13
+Taif,26,13,13
+Alesund,26,13,13
+Canberra,26,13,13
+Flint,26,12,14
+Okayama,26,13,13
+Charlottesville VA,26,13,13
+Allentown,26,13,13
+Mombasa,26,12,14
+Timisoara,26,13,13
+Friedrichshafen,26,13,13
+Zhoushan,26,13,13
+Tongliao,26,13,13
+Luang Prabang,26,13,13
+Sioux Falls,26,13,13
+Luzhou,26,13,13
+Mount Isa,26,13,13
+Cordoba,26,13,13
+Mahe,26,13,13
+Kashi,26,13,13
+Aracaju,26,13,13
+Rennes,26,13,13
+Banjul,26,13,13
+Gassim,25,13,12
+Aniak,25,13,12
+Fort Mcmurray,25,13,12
+Tokua,25,12,13
+Lilongwe,25,13,12
+Patina,25,13,12
+Billings,24,12,12
+Varadero,24,11,13
+Tampere,24,12,12
+Bloomington,24,12,12
+Yulin,24,12,12
+Kobe,24,12,12
+Wanxian,24,12,12
+Mogadishu,24,14,10
+Zanzibar,24,13,11
+Multan,24,12,12
+La Coruna,24,12,12
+Gainesville,24,12,12
+Asheville,24,12,12
+Bern,24,12,12
+Alice Springs,24,13,11
+Foz Do Iguacu,24,12,12
+Tortola,24,12,12
+Huai An,24,12,12
+Broome,24,12,12
+Matsuyama,24,12,12
+Namangan,24,12,12
+Ciudad Juarez,24,12,12
+Haugesund,24,12,12
+Jammu,24,12,12
+Cartagena,24,12,12
+Juba,24,12,12
+Bourgas,24,12,12
+Iasi,24,12,12
+Londrina,23,12,11
+Nausori,23,11,12
+Sialkot,23,12,11
+Nouakschott,23,11,12
+Linz,23,11,12
+Rabat,22,11,11
+San Pedro,22,11,11
+Lajes (terceira Island),22,12,10
+Limoges,22,11,11
+Ulan-ude,22,11,11
+Zahedan,22,11,11
+Tivat,22,11,11
+Bergerac,22,11,11
+Raipur,22,10,12
+Belgorod,22,11,11
+Fuyang,22,11,11
+San Andres Island,22,11,11
+Isle Of Man,22,11,11
+Manzhouli,22,11,11
+Paderborn,22,11,11
+Vigo,22,11,11
+Munster,22,11,11
+Basse Terre,22,11,11
+Mukalla,22,10,12
+Antofagasta,22,11,11
+Joao Pessoa,22,11,11
+Preveza,22,11,11
+Teresina,22,11,11
+Nadzab,22,11,11
+Kirkwall,22,11,11
+Medellin,22,11,11
+Guayana,22,11,11
+Ronchi De Legionari,22,11,11
+Miyazaki,22,11,11
+Kristiansand,22,11,11
+Rzeszow,22,11,11
+Port Blair,22,11,11
+Maraba,22,10,12
+Mount Hagen,22,12,10
+Chita,22,11,11
+Santo,22,11,11
+Chiang Rai,22,11,11
+Datong,22,11,11
+South Bend,22,11,11
+Cuzco,22,11,11
+Chimkent,21,11,10
+Kupang,21,11,10
+Mendoza,21,11,10
+Inverness,21,10,11
+Castries,21,10,11
+Najaf,21,10,11
+Gustavia,21,10,11
+Valparaiso,21,11,10
+Porto Seguro,21,10,11
+Ranchi,21,10,11
+Saipan,20,10,10
+Kalamata,20,10,10
+Mudanjiang,20,10,10
+Trabzon,20,10,10
+Sfax,20,10,10
+Jining,20,10,10
+Prince George,20,10,10
+Unalakleet,20,12,8
+Yibin,20,10,10
+Atlantic City,20,10,10
+Alta,20,10,10
+Torreon,20,10,10
+Bellingham,20,10,10
+Jiamusi,20,10,10
+Durango,20,10,10
+Puerto Montt,20,10,10
+Volgograd,20,10,10
+Hami,20,10,10
+Rasht,20,10,10
+Hakodate,20,10,10
+Ndola,20,10,10
+Ancona,20,10,10
+Holguin,20,9,11
+Maringa,20,10,10
+Luxor,20,10,10
+Lubumashi,20,10,10
+Iloilo,20,10,10
+Carcassonne,20,10,10
+Mytilini,20,10,10
+Sulaymaniyah,20,10,10
+Oujda,20,10,10
+Norwich,20,10,10
+Atyrau,20,10,10
+Varanasi,20,10,10
+Barranquilla,20,10,10
+Arequipa,20,10,10
+La Romana,20,10,10
+Korla,20,10,10
+Zandery,20,10,10
+Moncton,20,10,10
+Morelia,20,10,10
+La Rochelle,20,10,10
+Monterey,20,10,10
+Moroni,20,10,10
+Amarillo,19,9,10
+Iquique,19,10,9
+Babelthuap,19,9,10
+Scranton,19,10,9
+N'djamena,19,10,9
+Yenbo,19,10,9
+Lubbock,19,9,10
+Quujjuaq,19,9,10
+Cochabamba,19,11,8
+Maastricht,19,9,10
+Kharkov,19,9,10
+Granada,18,9,9
+Sohag,18,9,9
+Puerto Princesa,18,9,9
+Medford,18,9,9
+Syktyvkar,18,9,9
+Clermont-Ferrand,18,9,9
+Santa Clara,18,9,9
+Chongju,18,9,9
+Kumamoto,18,9,9
+Aguascalientes,18,9,9
+St. Croix Island,18,9,9
+Blackpool,18,9,9
+Santa Rosa,18,9,9
+Uummannaq,18,9,9
+Luoyang,18,9,9
+Great Exuma,18,8,10
+Evansville,18,9,9
+Pescara,18,9,9
+Dazhou,18,9,9
+Imphal,18,9,9
+Kralendijk,18,8,10
+Nampula,18,9,9
+Arkhangelsk,18,9,9
+Gulfport,18,9,9
+Port Elizabeth,18,9,9
+Mobile,18,9,9
+Newport News,18,9,9
+Harstad/Narvik,18,9,9
+Farmington,18,9,9
+Hatay,18,9,9
+Gaziantep,18,9,9
+Chandigarh,18,9,9
+Varna,18,9,9
+Appleton,18,9,9
+Upernavik,18,9,9
+Beziers,18,9,9
+"Doncaster, Sheffield",18,9,9
+Toyama,18,9,9
+Porto Velho,18,9,9
+Hobart,18,9,9
+Samos,18,9,9
+Zihuatanejo,18,9,9
+Tabuk,18,9,9
+Tiruchirappalli,18,9,9
+Amritsar,18,9,9
+Fort Smith,18,9,9
+Saarbruecken,18,9,9
+Annaba,18,9,9
+Oita,18,9,9
+Gaberone,18,9,9
+Godthaab,18,9,9
+Sibu,18,9,9
+Ilheus,18,9,9
+Panama,18,8,10
+Deer Lake,18,10,8
+Acapulco,17,9,8
+Queenstown International,17,10,7
+Bhubaneswar,17,8,9
+Kodiak,17,6,11
+Mirnyj,17,8,9
+Charlestown,17,9,8
+Liege,17,8,9
+Midland,17,9,8
+Basrah,16,8,8
+Visby,16,8,8
+Launceston,16,8,8
+Changde,16,8,8
+Shreveport,16,8,8
+Agartala,16,8,8
+Lansing,16,8,8
+Astrakhan,16,8,8
+Madurai,16,8,8
+Rapid City,16,8,8
+Zaragoza,16,8,8
+Heho,16,9,7
+Comiso,16,8,8
+Red Lake,16,9,7
+Pemba,16,8,8
+Umea,16,8,8
+Port Hedland,16,8,8
+Port Hartcourt,16,8,8
+Setif,16,8,8
+Sorong,16,8,8
+Qiqihar,16,8,8
+Khanty-Mansiysk,16,8,8
+Villavicencio,16,8,8
+Tarija,16,8,8
+Innsbruck,16,8,8
+Sondrestrom,16,8,8
+Inuvik,16,8,8
+Pierre,16,8,8
+Solo City,16,8,8
+North Eleuthera,16,8,8
+Aarhus,16,8,8
+Ust Kamenogorsk,16,8,8
+Redmond-Bend,16,8,8
+Bozeman,16,8,8
+Kununurra,16,8,8
+Pasco,16,8,8
+Tuxtla Gutierrez,16,8,8
+Bijie,16,8,8
+Kutaisi,16,8,8
+Turku,16,8,8
+Madang,16,8,8
+Baton Rouge,16,8,8
+Akita,16,8,8
+Ternate,16,8,8
+Santa Fe,16,8,8
+Fayetteville,16,8,8
+Grand Junction,16,8,8
+Churchill,16,8,8
+Green Bay,16,8,8
+Trinidad,16,8,8
+Mont Joli,16,8,8
+Bangor,16,8,8
+Takamatsu,16,8,8
+Santa Barbara,16,8,8
+Nadym,16,8,8
+Cockburn Town,16,8,8
+Nanyang,16,8,8
+Westerland,16,8,8
+Guangyuan,16,8,8
+Miho,16,8,8
+Hamilton,16,8,8
+Hammerfest,16,9,7
+Wuhai,16,8,8
+Reynosa,16,8,8
+Salekhard,16,8,8
+Voronezh,16,8,8
+Sao Jose Do Rio Preto,16,8,8
+San Luis Potosi,16,8,8
+Santa Cruz De La Palma,16,8,8
+Samarkand,15,7,8
+Orenburg,15,7,8
+Asmara,15,8,7
+La Ceiba,15,7,8
+Harlingen,15,8,7
+Hargeisa,15,8,7
+Nicoya,15,8,7
+Kristiansund,15,8,7
+Berbera,15,8,7
+Palu,15,7,8
+Kayseri,15,8,7
+Urgench,15,8,7
+Vaxjo,15,8,7
+Missoula,14,7,7
+Victoria Falls,14,7,7
+Qinhuangdao,14,7,7
+Cherepovets,14,7,7
+Poitiers,14,7,7
+Murmansk,14,7,7
+Imperatriz,14,7,7
+Bush Field,14,7,7
+Galena,14,7,7
+Eskimo Point,14,7,7
+Nha Trang,14,7,7
+Queretaro,14,7,7
+Bintulu,14,7,7
+Puebla,14,7,7
+Vinh,14,7,7
+Qianjiang,14,7,7
+Karaganda,14,7,7
+Shangri-La,14,7,7
+Asahikawa,14,7,7
+Watertown,14,7,7
+Cunagua,14,8,6
+Taiz,14,7,7
+Dunhuang,14,7,7
+Kano,14,7,7
+Livingstone,14,7,7
+Beira,14,7,7
+Yazd,14,7,7
+Jacksonville NC,14,7,7
+Udaipur,14,7,7
+Qaqortoq,14,7,7
+Rosario,14,7,7
+Xilinhot,14,7,7
+Iquitos,14,7,7
+Diyabakir,14,7,7
+Karratha,14,7,7
+Ladag,14,7,7
+Padang,14,7,7
+Zacatecas,14,7,7
+Nizhnekamsk,14,7,7
+Maun,14,7,7
+La Serena,14,7,7
+Great Falls,14,7,7
+Salalah,14,7,7
+Tampico,14,7,7
+Val D'or,14,7,7
+Vadsø,14,7,7
+Bissau,14,7,7
+Hamilton Island,14,7,7
+Kuala Terengganu,14,7,7
+Jiayuguan,14,7,7
+Manokwari,14,7,7
+Tete,14,7,7
+Comodoro Rivadavia,14,8,6
+King Salmon,14,7,7
+Rijeka,14,7,7
+Ulanhot,14,7,7
+Flores,14,7,7
+Comox,14,7,7
+Taraken,14,7,7
+Navegantes,14,7,7
+Szczecin,14,7,7
+Chizhou,14,7,7
+Manzanillo,14,7,7
+Buonmethuot,14,7,7
+Molde,14,7,7
+Anqing,14,7,7
+Cayenne,14,7,7
+BRISTOL,14,7,7
+Palmas,14,7,7
+Kuujjuarapik,14,7,7
+Plattsburgh,14,7,7
+Fergana,14,7,7
+MONTGOMERY,14,7,7
+Pangkal Pinang,14,7,7
+Aktyubinsk,14,7,7
+Simferopol,14,7,7
+Silchar,14,7,7
+Pangkalan Bun,14,7,7
+San Carlos De Bariloche,14,7,7
+Klagenfurt,14,7,7
+Weifang,14,7,7
+Bhopal,14,8,6
+Mackay,14,7,7
+Tawau,14,7,7
+Dali,14,7,7
+Barrow,13,6,7
+Punta Arenas,13,6,7
+Thompson,13,7,6
+Bukhara,13,7,6
+Juliaca,13,6,7
+Kirkenes,13,6,7
+Fort Yukon,13,7,6
+Keffallinia,13,7,6
+Mattala,13,6,7
+Toamasina,13,6,7
+Groningen,13,7,6
+Calama,13,7,6
+Karpathos,13,7,6
+Bagan,13,6,7
+Kulyab,13,6,7
+Poza Rico,12,6,6
+Lar,12,6,6
+Gibraltar,12,6,6
+Mildura,12,6,6
+Dongying,12,6,6
+Dasht-e-naz,12,6,6
+Kalymnos,12,6,6
+Kalamazoo,12,6,6
+Muan,12,6,6
+Asyut,12,6,6
+Baie Comeau,12,6,6
+Gizan,12,6,6
+Ondjiva,12,6,6
+Handan,12,6,6
+Port Macquarie,12,6,6
+Pereira,12,6,6
+Bismarck,12,6,6
+Killeen,12,6,6
+Alamosa,12,6,6
+Petropavlovsk,12,6,6
+Monroe,12,6,6
+Perm,12,6,6
+Fort Saint John,12,6,6
+Mohanbari,12,6,6
+The Valley,12,6,6
+Bakhtaran,12,6,6
+Sandakan,12,6,6
+Bakersfield,12,6,6
+Alanya,12,6,6
+Baker Lake,12,6,6
+Taegu,12,6,6
+Campbell River,12,6,6
+Santa Maria,12,6,6
+Pontianak,12,6,6
+Abadan,12,6,6
+Salta,12,6,6
+Aizwal,12,6,6
+Lafayette,12,6,6
+Sucre,12,6,6
+Samana,12,6,6
+Gallivare,12,6,6
+Kerry,12,6,6
+Page,12,6,6
+Zamboanga,12,6,6
+Show Low,12,6,6
+Kavala,12,6,6
+Chah Bahar,12,6,6
+Cambridge Bay,12,6,6
+Leh,12,6,6
+Lulea,12,6,6
+Waskaganish,12,6,6
+Elazig,12,6,6
+Lublin,12,6,6
+Wajir,12,7,5
+Bacolod,12,6,6
+Qingyang,12,6,6
+Norman Wells,12,6,6
+Navoi,12,6,6
+Mwanza,12,6,6
+Mcallen,12,6,6
+Mcgrath,12,6,6
+Udon Thani,12,6,6
+Xingyi,12,6,6
+Bejaja,12,6,6
+Herat,12,6,6
+Vieques Island,12,6,6
+Natashquan,12,6,6
+Marudi,12,6,6
+Jodhpur,12,6,6
+Gorgan,12,6,6
+Magadan,12,6,6
+Nanchong,12,6,6
+Quzhou,12,6,6
+Neuquen,12,6,6
+Horta,12,6,6
+Hoskins,12,6,6
+Hotan,12,6,6
+Batumi,12,6,6
+Chesterfield Inlet,12,6,6
+Quibdo,12,6,6
+Luxi,12,6,6
+Erfurt,12,6,6
+Newburgh,12,6,6
+Newquai,12,6,6
+Marsa Alam,12,6,6
+Tarapoto,12,6,6
+Cheyenne,12,6,6
+Sao Vicente Island,12,7,5
+Jiujiang,12,6,6
+Memanbetsu,12,6,6
+Pucallpa,12,6,6
+Oaxaca,12,6,6
+Hat Yai,12,6,6
+Nantucket,12,6,6
+Hassi Messaoud,12,6,6
+Barreiras,12,6,6
+Elmira,12,6,6
+Wewak,12,6,6
+Jambi,12,6,6
+Tlemcen,12,6,6
+Leticia,12,6,6
+Lensk,12,6,6
+Jixi,12,6,6
+Reggio Calabria,12,6,6
+Yichun,12,6,6
+Leros,12,6,6
+St.-pierre,12,6,6
+Jinchuan,12,6,6
+Chios,12,6,6
+Mulu,12,6,6
+Vitória Da Conquista,12,6,6
+Bora Bora,12,5,7
+Yan'an,11,6,5
+Deadhorse,11,6,5
+Adrar,11,5,6
+Brive,11,6,5
+Whale Cove,11,6,5
+Sukkur,11,5,6
+Faleolo,11,6,5
+Kosice,11,5,6
+Santiago De Cuba,11,6,5
+Bahawalpur,11,6,5
+Sudbury,11,5,6
+Zweibruecken,11,6,5
+Timmins,11,6,5
+Trelew,11,5,6
+Concepcion,11,5,6
+Ouargla,11,6,5
+Gurney,11,5,6
+Aksu,11,5,6
+Bandar Lampung-Sumatra Island,11,6,5
+Rangiroa,11,6,5
+Coral Harbour,11,5,6
+Shaktoolik,11,5,6
+Turbat,11,5,6
+Rio Gallegos,11,5,6
+Marina Di Campo,10,5,5
+Stornoway,10,5,5
+Momote,10,5,5
+Kuantan,10,5,5
+Narssarssuaq,10,5,5
+Tomsk,10,5,5
+Thimphu,10,5,5
+St-Etienne,10,5,5
+Pau,10,5,5
+Dehra Dun,10,5,5
+New Bern,10,5,5
+Malindi,10,5,5
+St Mary's,10,5,5
+Cold Bay,10,5,5
+Toledo,10,5,5
+Koyuk,10,5,5
+Makung,10,5,5
+Nea Anghialos,10,5,5
+Ballina Byron Bay,10,5,5
+Mardin,10,5,5
+Vaasa,10,5,5
+Passo Fundo,10,5,5
+Sitia,10,5,5
+Coppermine,10,5,5
+Belmopan,10,5,5
+Mehamn,10,5,5
+Meixian,10,5,5
+Williams Lake,10,5,5
+Cuneo,10,5,5
+Noyabrsk,10,5,5
+Sundsvall,10,5,5
+Melilla,10,5,5
+Limnos,10,5,5
+Nyingchi,10,5,5
+Traverse City,10,5,5
+Tours,10,5,5
+Daqing,10,5,5
+Liberal,10,4,6
+Bengkulu,10,5,5
+Dandong,10,5,5
+Chapeco,10,5,5
+Dalat,10,5,5
+Tongatapu,10,5,5
+State College Pennsylvania,10,5,5
+Metz,10,5,5
+Banda Aceh,10,5,5
+Sumburgh,10,5,5
+Minot,10,5,5
+Londonderry,10,5,5
+Maroochydore,10,5,5
+Ushuaia,10,6,4
+Kushiro,10,5,5
+Sovetskiy,10,5,5
+Palmerston North,10,5,5
+Daytona Beach,10,5,5
+Corpus Christi,10,5,5
+Niagara Falls,10,5,5
+Barquisimeto,10,5,5
+Miyako,10,5,5
+Pakse,10,5,5
+Baroda,10,5,5
+Tongren,10,5,5
+Bayannur,10,5,5
+Los Mochis,10,5,5
+Aurangabad,10,5,5
+Cloncurry,10,5,5
+Laage,10,5,5
+Norsup,10,5,5
+Ciudad Obregon,10,5,5
+Baishan,10,5,5
+Gove,10,6,4
+Huntington,10,5,5
+Kamloops,10,5,5
+Sylhet Osmani,10,6,4
+Aomori,10,5,5
+Blantyre,10,5,5
+Hail,10,5,5
+Erzurum,10,5,5
+Blagoveschensk,10,5,5
+Ibaraki,10,5,5
+Kalispell,10,5,5
+Rio Branco,10,5,5
+Khalije Fars,10,5,5
+Khanabad,10,5,5
+Kalgoorlie,10,5,5
+Antsiranana,10,5,5
+Igloolik,10,5,5
+Elat,10,5,5
+Humberside,10,5,5
+Ilulissat,10,5,5
+Port Sudan,10,5,5
+Tengchong,10,5,5
+Wassau,10,5,5
+Girua,10,5,5
+Waterloo,10,5,5
+Van,10,5,5
+Reykjavik,10,5,5
+Saratov,10,5,5
+Yakutia,10,5,5
+George,10,5,5
+Tarbes,10,5,5
+Alor Setar,10,5,5
+Karlovy Vary,10,5,5
+Tacloban,10,5,5
+Dodge City,10,4,6
+Kandahar,10,5,5
+Saginaw,10,5,5
+Bronnoysund,10,5,5
+Phuquoc,10,5,5
+Whitehorse,10,5,5
+Governor's Harbor,10,6,4
+Sanliurfa,10,5,5
+Perpignan,10,5,5
+Grand Forks,10,5,5
+Sayun Intl,10,5,5
+Schefferville,10,5,5
+Dunedin,10,6,4
+Kinmen,10,5,5
+The Pas,10,5,5
+East London,10,5,5
+Tanna,10,5,5
+Xichang,10,5,5
+Romblon,10,5,5
+Angmagssalik,10,5,5
+Jinzhou,10,5,5
+Perugia,10,5,5
+Bucaramanga,10,5,5
+Halmstad,10,4,6
+Bushehr,10,5,5
+Tefe,10,5,5
+Petrolina,10,5,5
+Goroka,10,5,5
+Rockford,10,5,5
+Heringsdorf,10,5,5
+Joinville,10,5,5
+Rockhampton,10,5,5
+Pyongyang,10,5,5
+Juazeiro Do Norte,10,5,5
+Terrace,10,5,5
+Rouyn,10,5,5
+Gizo,9,5,4
+Wales,9,5,4
+Quinhagak,9,5,4
+Scarborough,9,5,4
+Quepos,9,5,4
+Bettles,9,4,5
+Tobruk,9,5,4
+Ruby,9,5,4
+Tachilek,9,4,5
+Gjoa Haven,9,5,4
+Ganja,9,5,4
+Sibiu,9,4,5
+Hodeidah,9,4,5
+Helena,9,4,5
+Mosjoen,9,4,5
+Elim,9,4,5
+Raiatea Island,9,5,4
+Floro,9,4,5
+Sandnessjoen,9,5,4
+Kingstown,9,5,4
+Mo i Rana,9,5,4
+Flin Flon,9,5,4
+Arica,9,4,5
+Kiunga,9,4,5
+Big Trout Lake,9,5,4
+Rodez,8,4,4
+Nain,8,4,4
+Bratsk,8,4,4
+Malatya,8,4,4
+Uberaba,8,4,4
+Buckland,8,4,4
+Cranbrook,8,4,4
+Puvirnituq,8,4,4
+Chevery,8,4,4
+Nanyuki,8,4,4
+Noorvik,8,4,4
+Bugulma,8,4,4
+Enshi,8,4,4
+Batsfjord,8,3,5
+St. Martin,8,4,4
+Toowoomba,8,4,4
+Branson,8,4,4
+Clyde River,8,4,4
+Ithaca,8,4,4
+Manhattan,8,4,4
+Vilankulu,8,4,4
+St. Michael,8,4,4
+Buka Island,8,4,4
+Vilhelmina,8,4,4
+Hanamaki,8,4,4
+Groote Eylandt,8,4,4
+Nouadhibou,8,4,4
+Repulse Bay,8,5,3
+Nosy-be,8,4,4
+Cucuta,8,4,4
+Hilo,8,4,4
+White Mountain,8,4,4
+Naryan-Mar,8,4,4
+St-Augustin,8,4,4
+Spence Bay,8,4,4
+Hilton Head Island,8,4,4
+Yining,8,4,4
+Nanortalik,8,4,4
+Sault Sainte Marie,8,4,4
+Batna,8,4,4
+Copiapo,8,4,4
+Tabubil,8,4,4
+Hue,8,4,4
+Tanjung Pandan,8,4,4
+El Aaiún,8,4,4
+Broken Hill,8,4,4
+Savoonga,8,4,4
+Lycksele,8,4,4
+Erie,8,4,4
+Hopedale,8,4,4
+Ukhta,8,4,4
+Hualien,8,4,4
+Macaé,8,4,4
+El Calafate,8,4,4
+Huahine Island,8,4,4
+Quesnel,8,4,4
+Huslia,8,3,5
+Coff's Harbour,8,4,4
+Nelson,8,4,4
+Mariehamn,8,4,4
+Hall Beach,8,4,4
+Bearskin Lake,8,4,4
+Nimes,8,4,4
+Makkovik,8,4,4
+Brevig Mission,8,4,4
+Ambler,8,4,4
+Iguazu Falls,8,4,4
+Makhachkala,8,4,4
+Haiphong,8,4,4
+Hiva-oa,8,4,4
+Vineyard Haven MA,8,4,4
+Majuro,8,4,4
+Spanish Town,8,4,4
+Idaho Falls,8,4,4
+Maroantsetra,8,4,4
+Luebeck,8,4,4
+Puerto Jimenez,8,4,4
+Albury,8,4,4
+Izhevsk,8,4,4
+Mpumalanga,8,4,4
+Surat Thani,8,4,4
+Kerman,8,4,4
+Bloemfontein,8,4,4
+Araguaina,8,4,4
+Kendari,8,4,4
+Balmaceda,8,4,4
+Kwangju,8,4,4
+Salisbury,8,4,4
+Kzyl-Orda,8,4,4
+Kavieng,8,4,4
+Dili,8,4,4
+Ghardaia,8,4,4
+Gambell,8,4,4
+Kasos,8,4,4
+Stavropol,8,4,4
+Kasane,8,4,4
+Dipolog,8,4,4
+Ozamis,8,4,4
+Oulu,8,4,4
+Labuan,8,4,4
+Labuhan Bajo,8,4,4
+Aguadilla,8,4,4
+Abakan,8,4,4
+Maturin,8,4,4
+Pangnirtung,8,4,4
+Galcaio,8,4,4
+Sivas,8,4,4
+San Luis Obispo,8,4,4
+Kithira,8,4,4
+Yacuiba,8,4,4
+Binghamton,8,4,4
+Champaign,8,4,4
+Vagar,8,4,4
+Kiritimati,8,4,4
+Choibalsan,8,4,4
+Deering,8,4,4
+Fredericton,8,4,4
+Parma,8,4,4
+Sinop,8,4,4
+Kramfors,8,4,4
+Kumasi,8,4,4
+Biak,8,4,4
+San Cristóbal,8,4,4
+Biskra,8,4,4
+Parauapebas,8,4,4
+Paraguana,8,4,4
+Kiana,8,4,4
+Fukue,8,4,4
+Chisasibi,8,4,4
+Fukushima,8,4,4
+Panzhihua,8,4,4
+Pico,8,4,4
+Gladstone,8,4,4
+Mexicali,8,4,4
+Ostrava,8,4,4
+Legazpi,8,4,4
+Gorontalo,8,4,4
+Santa Marta,8,4,4
+Charlottetown,8,4,4
+Caticlan,8,4,4
+Ende,8,4,4
+Jiagedaqi District,8,4,4
+Lewiston,8,4,4
+Myitkyina,8,4,4
+Grand Island,8,4,4
+Bosaso,8,4,4
+Bagotville,8,4,4
+Beloyarsky,8,4,4
+Tamanrasset,8,4,4
+Duluth,8,4,4
+Dumaguete,8,4,4
+Puerto Asis,8,4,4
+Smithers,8,4,4
+Mazar-i-sharif,8,4,4
+Nyagan,8,4,4
+Grande Prairie,8,4,4
+Carepa,8,4,4
+Butuan,8,4,4
+Nukus,8,4,4
+Nuku Hiva,8,4,4
+Sogndal,8,4,4
+Timika,8,4,4
+Bulawayo,8,4,4
+Muskrat Dam,8,4,4
+Bahia Blanca,8,4,4
+Osijek,8,4,4
+Munda,8,4,4
+Daru,8,4,4
+Lamu,8,4,4
+Caen,8,4,4
+Orsta-Volda,8,4,4
+Kalskag,8,4,4
+Ciudad del Este,8,4,4
+Astypalaia,8,4,4
+Daocheng,8,4,4
+Charlieville,8,4,4
+Aswan,8,4,4
+Uluru,8,4,4
+Russian Mission,8,4,4
+Youngstown,8,4,4
+Postville,8,4,4
+Laredo,8,4,4
+Anshun,8,4,4
+Golovin,8,4,4
+Berlevag,8,4,4
+Altamira,7,3,4
+Golfito,7,4,3
+Molokai,7,4,3
+Stokmarknes,7,3,4
+Campos,7,3,4
+Masai Mara,7,4,3
+Fak Fak,7,4,3
+Haines,7,3,4
+Samburu South,7,4,3
+Pelotas,7,3,4
+Emmonak,7,3,4
+Ikaria,7,4,3
+Inukjuak,7,4,3
+Longreach,7,5,2
+Dzhambul,7,3,4
+Moorea,7,3,4
+Sege,7,3,4
+Bonaventure,7,4,3
+Dryden,7,3,4
+Tirgu Mures,7,2,5
+Skagway,7,4,3
+Lanai,7,3,4
+Kwigillingok,7,3,4
+Valladolid,7,3,4
+Pikangikum,7,2,5
+Kotlik,7,4,3
+Konya,7,4,3
+Craig Cove,7,4,3
+Andoya,7,4,3
+Eldoret,7,4,3
+Bathurst,7,4,3
+Sao Tome,7,4,3
+Anaktuvuk Pass,7,4,3
+New Plymouth,6,3,3
+Palangkaraya,6,3,3
+Shungnak,6,4,2
+Pohnpei,6,3,3
+Tanjung Pinang,6,3,3
+Pohang,6,3,3
+Point Barrow,6,3,3
+Palmar Sur,6,3,3
+Tepic,6,3,3
+Pleiku,6,3,3
+Zouerat,6,3,3
+Anapa,6,3,3
+Palanga,6,3,3
+Svalbard,6,3,3
+Sainte Marie,6,3,3
+Sambava,6,3,3
+Sitka,6,3,3
+Pond Inlet,6,3,3
+Sacheon,6,3,3
+Shishmaref,6,3,3
+Pori,6,3,3
+Svolvær,6,3,3
+Temuco,6,3,3
+Teller,6,3,3
+Sittwe,6,3,3
+ST MARY\'S,6,3,3
+Zhaotong,6,3,3
+Araracuara,6,3,3
+Baise,6,3,3
+Rørvik,6,3,3
+Red Deer Industrial,6,3,3
+Pavlodar,6,3,3
+Surat,6,3,3
+Moosonee,6,3,3
+Tagbilaran,6,3,3
+Moranbah,6,3,3
+Sangley Point,6,3,3
+San Sebastian,6,3,3
+Sanikiluaq,6,3,3
+Sao Jose Dos Campos,6,3,3
+Patras,6,3,3
+Alexandroupolis,6,3,3
+Pasto,6,3,3
+Ardabil,6,3,3
+Aasiaat,6,3,3
+Sigiriya,6,3,3
+Arcata CA,6,3,3
+Phitsanulok,6,3,3
+Sisimiut,6,3,3
+Mornington Island,6,3,3
+Alliance,6,3,3
+Phucat,6,3,3
+Moro,6,3,3
+Sandy Lake,6,3,3
+Paraburdoo,6,3,3
+Papa Westray,6,3,3
+Pantelleria,6,3,3
+Stord,6,3,3
+Arthur's Town,6,3,3
+Nauru,6,3,3
+Santa Maria (island),6,3,3
+Anvik,6,3,3
+Soyo,6,3,3
+Toksook Bay,6,3,3
+Puerto Maldonado,6,3,3
+Roma,6,3,3
+Rajkot,6,3,3
+North Ronaldsay,6,2,4
+Ablow,6,3,3
+Sola,6,3,3
+Savusavu,6,3,3
+Punta del Este,6,3,3
+Puntarenas,6,3,3
+Rajahmundry,6,3,3
+Aupaluk,6,3,3
+St. John,6,3,3
+Rahim Yar Khan,6,3,3
+Tarawa,6,3,3
+Rock Springs,6,3,3
+Qaanaaq,6,3,3
+Namsos,6,3,3
+Savannakhet,6,3,3
+Al Bayda',6,3,3
+Al-ahsa,6,3,3
+St. Anthony,6,3,3
+Simao,6,3,3
+Rimini,6,3,3
+Andizhan,6,3,3
+Quelimane,6,3,3
+Tari,6,3,3
+Puerto Inírida,6,3,3
+Nabire,6,3,3
+Nulato,6,3,3
+St. Paul Island,6,3,3
+Östersund,6,3,3
+Mus,6,3,3
+Ängelholm,6,3,3
+Porto Santo,6,3,3
+Shageluk,6,3,3
+Antalaha,6,3,3
+Teesside,6,3,3
+Tanjung Redep-Borneo Island,6,3,3
+Roxas City,6,3,3
+Akiak,6,3,3
+Semiplatinsk,6,3,3
+Nejran,6,3,3
+Prosserpine,6,3,3
+NAPIER,6,3,3
+Zhijiang,6,3,3
+Rotorua,6,3,3
+Ronneby,6,3,3
+Tamale,6,3,3
+Skelleftea,6,3,3
+Tauranga,6,3,3
+Skiros,6,3,3
+Obihiro,6,3,3
+Provo,6,3,3
+Toliara,6,3,3
+Puerto Carreno,6,3,3
+Puerto Escondido,6,3,3
+Anshan,6,3,3
+Bauru,6,3,3
+College Station,6,3,3
+Lifou,6,3,3
+Can Tho,6,3,3
+Heihe,6,3,3
+Fort Nelson,6,3,3
+Bella Bella,6,3,3
+Vanimo,6,3,3
+Liping,6,3,3
+Chaoyang,6,3,3
+Lincoln,6,3,3
+Hay River,6,3,3
+Coca,6,3,3
+Ukunda,6,3,3
+Havre-Saint-Pierre,6,3,3
+Ubon Ratchathani,6,3,3
+Kemorovo,6,3,3
+Leknes,6,3,3
+Kenai,6,3,3
+Learmonth,6,3,3
+Dakhla,6,3,3
+Kenora,6,3,3
+Futuna Island,6,3,3
+Lawas,6,3,3
+Latrobe,6,3,3
+Ulsan,6,3,3
+Lappeenranta,6,3,3
+Loh/Linua,6,3,3
+Fort Hope,6,3,3
+Gan Island,6,3,3
+Holy Cross,6,3,3
+Mackenzie British Columbia,6,3,3
+Macapa,6,3,3
+Brownsville,6,3,3
+Erzincan,6,3,3
+Kangirsuk,6,3,3
+Vardø,6,3,3
+Esmeraldas,6,3,3
+Tyler,6,3,3
+Esquel,6,3,3
+Essadouira,6,3,3
+Lubango,6,3,3
+Cape Dorset,6,3,3
+Hierro,6,3,3
+Lourdes-De-Blanc-Sablon,6,3,3
+Holman Island,6,3,3
+Ua Huka,6,3,3
+Brunswick,6,3,3
+Ua Pou,6,3,3
+Lord Howe Island,6,3,3
+Lonorore,6,3,3
+Brusselton,6,3,3
+Fernando Do Noronha,6,3,3
+Kars,6,3,3
+Cap Haitien,6,3,3
+Camaguey,6,3,3
+Gander,6,3,3
+Vasteras,6,3,3
+Chibougamau,6,3,3
+Kipnuk,6,3,3
+Waikabubak-Sumba Island,6,3,3
+Kirakira,6,3,3
+Kirov,6,3,3
+Kufra,6,3,3
+Kiruna,6,3,3
+Windsor,6,3,3
+Kitakyushu,6,3,3
+Burnie,6,3,3
+Kruunupyy,6,3,3
+Yamagata,6,3,3
+Walvis Bay,6,3,3
+Yeosu,6,3,3
+Yamaguchi,6,3,3
+Bydgoszcz,6,3,3
+Kivalina,6,3,3
+Wallis,6,3,3
+Kostanay,6,3,3
+Klawock,6,3,3
+Bima,6,3,3
+Kobuk,6,2,4
+Chefornak,6,3,3
+Columbus Mississippi,6,3,3
+Kongiganak,6,3,3
+Goma,6,3,3
+Kwajalein,6,3,3
+Colima,6,3,3
+Gillette,6,3,3
+Langgur-Kei Islands,6,3,3
+Umiujaq,6,3,3
+Lampedusa,6,3,3
+Valdosta,6,3,3
+Gaua Island,6,3,3
+Bisha,6,3,3
+Lalibella,6,3,3
+Lake Charles,6,3,3
+Geraldton,6,3,3
+Unalaska,6,3,3
+Gwinn,6,3,3
+Cordova,6,3,3
+Kwethluk,6,3,3
+Wagga Wagga,6,3,3
+Gwadar,6,3,3
+La Isabela,6,3,3
+La Grande Riviere,6,3,3
+Gustavus,6,3,3
+Uraj,6,3,3
+Cabo Frio,6,3,3
+Uralsk,6,3,3
+La Fortuna/San Carlos,6,3,3
+La Crosse,6,3,3
+Uromiyeh,6,3,3
+Batman,6,3,3
+Busuanga,6,3,3
+Kananga,6,3,3
+Tsushima,6,3,3
+Inhambane,6,3,3
+Ipota,6,3,3
+Woodbourne,6,3,3
+Worland,6,3,3
+Mar Del Plata,6,3,3
+Jabalpur,6,3,3
+Bangda,6,3,3
+Jessore,6,3,3
+Tuguegarao,6,3,3
+Tozeur,6,4,2
+Ciudad Del Carmen,6,3,3
+Doomadgee,6,3,3
+Iles De La Madeleine,6,3,3
+Dubbo,6,3,3
+Bangui,6,3,3
+Huron,6,3,3
+Joacaba,6,3,3
+Metakatla,6,3,3
+Eek,6,3,3
+Matei,6,3,3
+Dinard,6,3,3
+Montes Claros,6,3,3
+Barnaul,6,3,3
+Ibague,6,3,3
+Dourados,6,3,3
+Dillingham,6,3,3
+Dothan,6,3,3
+Ipatinga,6,3,3
+Cox's Bazar,6,3,3
+Hyeres,6,3,3
+Jijiga,6,3,3
+Cuenca,6,3,3
+Castres,6,3,3
+Maupiti,6,3,3
+Mitu,6,3,3
+Cotabato,6,3,3
+Malang,6,3,3
+El Vigía,6,3,3
+Yuma,6,3,3
+Maningrida,6,3,3
+Wuzhou,6,3,3
+Kalkmar,6,3,3
+Makale,6,3,3
+Menongue,6,3,3
+Kaltag,6,3,3
+Cascavel,6,3,3
+Monteria,6,3,3
+Enugu,6,3,3
+Mahajanga,6,3,3
+Hoonah,6,3,3
+Vijayawada,6,3,3
+Merauke,6,3,3
+Merimbula,6,3,3
+El-baha,6,3,3
+Caxias Do Sul,6,3,3
+Dire Dawa,6,3,3
+Huambo,6,3,3
+Huatulco,6,3,3
+Dole,6,3,3
+Yongzhou,6,3,3
+Banja Luka,6,3,3
+Casper,6,3,3
+Mohe County,6,3,3
+Kahramanmaras,6,3,3
+Chadron,6,3,3
+Manihi,6,3,3
+Aitutaki,5,2,3
+Cayman Brac,5,3,2
+Erechim,5,3,2
+In Salah,5,3,2
+Rurutu,5,3,2
+Mbandaka,5,3,2
+Oriximina,5,4,1
+Maumere,5,2,3
+Ambryn Island,5,2,3
+Wunnumin Lake,5,2,3
+Tikehau,5,3,2
+Saga,5,2,3
+Cayo Largo del Sur,5,2,3
+Takaroa,5,2,3
+Bocas Del Toro,5,3,2
+Ahe,5,3,2
+Narsaq,5,2,3
+Norfolk Island,5,2,3
+El Dorado,5,3,2
+Dera Ghazi Khan,5,3,2
+Kaimana,5,2,3
+Fort Frances,5,3,2
+Clarksburg,5,2,3
+Angling Lake,5,3,2
+Nightmute,5,2,3
+Sanday,5,3,2
+Jyvaskyla,5,2,3
+Fort Severn,5,2,3
+Tubuai,5,2,3
+Ravensthorpe,5,3,2
+Cobija,5,3,2
+Kisumu,5,2,3
+Esperance,5,2,3
+Kisangani,5,3,2
+Kemi,5,3,2
+Sorkjosen,5,3,2
+Honningsvag,5,2,3
+Allakaket,5,2,3
+Barnstable,5,3,2
+New Bedford,5,2,3
+Cabinda,5,2,3
+Round Lake,5,3,2
+Noatak,5,2,3
+Rock Sound,4,2,2
+Rio Grande,4,2,2
+Imperial,4,2,2
+Ioannina,4,2,2
+Solwesi,4,2,2
+Wainwright,4,2,2
+Pullman,4,2,2
+Zhob,4,2,2
+Invercargill,4,2,2
+Iron Mountain,4,2,2
+Ipoh,4,2,2
+International Falls,4,2,2
+Williamsport,4,2,2
+Cunnamulla,4,2,2
+Criciuma,4,2,2
+Guriat,4,2,2
+Crescent City,4,2,2
+Anadyr,4,2,2
+Burketown,4,2,2
+Rimatara,4,2,2
+Redang,4,2,2
+Hawarden,4,2,2
+Huánuco,4,2,2
+Hughes,4,2,2
+Buenaventura,4,2,2
+Hubli,4,2,2
+Tapachula,4,2,2
+Hemavan,4,2,2
+Hervey Bay,4,2,2
+High Level,4,2,2
+Ramsar,4,2,2
+Ramata,4,2,2
+Quilpie,4,2,2
+Guapi,4,2,2
+Taree,4,2,2
+Raivavae,4,2,2
+Hot Springs,4,2,2
+Hooper Bay,4,2,2
+Rainbow Lake,4,2,2
+Homer,4,2,2
+Broughton Island,4,2,2
+Vorkuta,4,2,2
+Hasvik,4,2,2
+Williston,4,2,2
+Haifa,4,2,2
+Rigolet,4,2,2
+Zhongwei,4,2,2
+Waco,4,2,2
+Haa Dhaalu Atoll,4,2,2
+Imo,4,2,2
+Hafr Al-batin,4,2,2
+Hagerstown,4,2,2
+Rhinelander,4,2,2
+Hagfors,4,2,2
+Resolute,4,2,2
+Quaqtaq,4,2,2
+Bunia,4,1,3
+Rerrenabaque,4,2,2
+Vunisea,4,2,2
+Bundaberg,4,2,2
+Iki,4,2,2
+Rennell Island,4,2,2
+Igdir,4,2,2
+Bukavu/kavumu,4,2,2
+Harrison,4,2,2
+Hoedspruit,4,2,2
+Valera,4,2,2
+Wakkanai,4,2,2
+Saravena,4,2,2
+Sao Nocolau Island,4,2,2
+Westray,4,2,2
+Dead Man's Cay,4,2,2
+Syros Island,4,2,2
+Saransk,4,2,2
+El Golea,4,2,2
+El Fasher,4,2,2
+Eastmain River,4,2,2
+Satu Mare,4,2,2
+Castlegar,4,2,2
+Whangarei,4,2,2
+Sirt,4,2,2
+Saurimo,4,2,2
+Al Ain,4,2,2
+Emerald,4,2,2
+Sao Jorge Island,4,2,2
+Dawson Creek,4,2,2
+Carlsbad,4,2,2
+Erenhot,4,2,2
+Al-Jawf,4,2,2
+Al-Ula,4,2,2
+Santo Angelo,4,2,2
+Tacheng,4,2,2
+Esbjerg,4,2,2
+Dawei,4,2,2
+Faisalabad,4,2,2
+Fakarava,4,2,2
+Xinyuan,4,2,2
+Dawadmi,4,2,2
+Tacna,4,2,2
+Alakanuk,4,2,2
+Savonlinna,4,2,2
+Easter Island,4,2,2
+Florencia,4,2,2
+Chalkyitsik,4,2,2
+Dimapur,4,2,2
+Dillon's Bay,4,2,2
+Sir Bani Yas Island,4,2,2
+Dickinson,4,2,2
+Wichita Falls,4,2,2
+Wick,4,2,2
+Chalons,4,2,2
+Cat Lake,4,2,2
+Deauville,4,2,2
+Derby,4,2,2
+Dera Ismael Khan,4,2,2
+Denizli,4,2,2
+Deline,4,2,2
+Decatur,4,2,2
+Agen,4,2,2
+Shiquanhe,4,2,2
+Sveg,4,2,2
+Agra,4,2,2
+Agri,4,2,2
+Diu,4,2,2
+Sharurah,4,2,2
+Xiahe city,4,2,2
+Dong Hoi,4,2,2
+Dongloe,4,2,2
+Sevastopol,4,2,2
+Du Bois,4,2,2
+Selawik,4,2,2
+Catumbela,4,2,2
+Akulivik,4,2,2
+Dubuque IA,4,2,2
+Catarman,4,2,2
+Flagstaff,4,2,2
+Wemindji,4,2,2
+Socotra,4,2,2
+Gisborne,4,2,2
+Rundu,4,2,2
+Golmud,4,2,2
+Cacador,4,2,2
+Røst,4,2,2
+Cajamarca,4,2,2
+Calabar,4,2,2
+Sachigo Lake,4,2,2
+Geneina,4,2,2
+Sachs Harbour,4,2,2
+Gillam,4,2,2
+Saint Cloud,4,2,2
+Saint George,4,2,2
+Waterford,4,2,2
+Caldas Novas,4,2,2
+Gondar,4,2,2
+Gorakhpur,4,2,2
+Takoradi,4,2,2
+Rovaniemi,4,2,2
+Cheboksary,4,2,2
+Altay,4,2,2
+Adiyaman,4,2,2
+Rota,4,2,2
+Roswell,4,2,2
+Altenrhein,4,2,2
+Sleetmute,4,2,2
+Altoona,4,2,2
+Amami,4,2,2
+Griffith,4,2,2
+DHARAVANDHOO,4,2,2
+Tame,4,2,2
+Cyclades Islands,4,2,2
+Skiathos,4,2,2
+Webequie,4,2,2
+Fort Albany,4,2,2
+Fort Simpson,4,2,2
+Franklin,4,2,2
+Alice Town,4,2,2
+Campina Grande,4,2,2
+Francistown,4,2,2
+San Rafael,4,2,2
+Foshan,4,2,2
+San Vincente De Caguan,4,2,2
+Salluit,4,2,2
+Sand Point,4,2,2
+Sandane,4,2,2
+Alderney,4,2,2
+David,4,2,2
+Fort Good Hope,4,2,2
+Fort Chipewyan,4,2,2
+Campeche,4,2,2
+Allahabad,4,2,2
+San Jose Del Guaviare,4,2,2
+Charlo,4,2,2
+Alluitsup Paa,4,2,2
+Weipa,4,2,2
+Yakutat,4,2,2
+San Angelo,4,2,2
+Gabes,4,2,2
+Galapagos,4,2,2
+Garden City,4,2,2
+Alpena,4,2,2
+Saltillo,4,2,2
+Garoua,4,2,2
+Gaspe,4,2,2
+Itaituba,4,2,2
+Zonguldak,4,2,2
+Brainerd,4,2,2
+Aqaba,4,2,2
+Tartu,4,2,2
+Little Cayman,4,2,2
+Longana,4,2,2
+Long Seridan,4,2,2
+Normanton,4,2,2
+Norrkoeping,4,2,2
+Long Datih,4,2,2
+North Bay,4,2,2
+North Bend,4,2,2
+Long Akah,4,2,2
+Tokushima,4,2,2
+Beaver,4,2,2
+North Spirit Lake,4,2,2
+Noshahr,4,2,2
+Lockhart River,4,2,2
+Bedourie,4,2,2
+Novokuznetsk,4,2,2
+Longview,4,2,2
+Lorient,4,2,2
+Beaumont,4,2,2
+Newman,4,2,2
+Macon,4,2,2
+New Haven,4,2,2
+Avignon,4,2,2
+Lynchburg,4,2,2
+Yinchun,4,2,2
+Luwuk,4,2,2
+Tuy Hoa,4,2,2
+Abilene,4,2,2
+Chitral,4,2,2
+Lugano,4,2,2
+Aurukun,4,2,2
+Bayankhongor,4,2,2
+Tête-à-la-Baleine,4,2,2
+Tolagnaro,4,2,2
+Attawapiskat,4,2,2
+Atqasuk,4,2,2
+Nemiscau,4,2,2
+Nuiqsut,4,2,2
+Lansdowne House,4,2,2
+Ulyanovsk,4,2,2
+Orebro,4,2,2
+Lankaran,4,2,2
+Aspen,4,2,2
+Lamen Bay,4,2,2
+Lambasa,4,2,2
+Lamap,4,2,2
+Osubi,4,2,2
+Lakselv,4,3,1
+Lahania-kapalua,4,2,2
+Ouarzazate,4,2,2
+Laamu Atoll,4,2,2
+Ouvea,4,2,2
+Tilrempt,4,2,2
+Laoag,4,2,2
+Oradea,4,2,2
+Latacunga,4,2,2
+Lewisburg,4,2,2
+Linkoeping,4,2,2
+Lincang,4,2,2
+Nyala,4,2,2
+Lichinga,4,2,2
+Benbecula,4,2,2
+Winton,4,2,2
+Cody,4,2,2
+Lawton,4,2,2
+Beni,4,2,2
+Benin,4,2,2
+Lebanon,4,2,2
+Ulawa,4,2,2
+Lazard Cardenas,4,2,2
+Tirupeti,4,2,2
+Nevsehir,4,2,2
+Magnetiogorsk,4,2,2
+La Toma (Catamayo),4,2,2
+Barinas,4,2,2
+Bandar Mahshahr,4,2,2
+Mukah,4,2,2
+Trang,4,2,2
+Baia Mare,4,2,2
+Yushu,4,2,2
+Merzifon,4,2,2
+Muren,4,2,2
+Christmas Island,4,2,2
+Baoshan,4,2,2
+Treasure Cay,4,2,2
+Yopal,4,2,2
+Myeik,4,2,2
+Chu Lai,4,2,2
+Mbuji-mayi,4,2,2
+Mayaguana,4,2,2
+Torsby,4,2,2
+Bandar Lengeh,4,2,2
+Wrangell,4,2,2
+Moruya,4,2,2
+Mora,4,2,2
+Stronsay,4,2,2
+Morgantown,4,2,2
+Moenjodaro,4,2,2
+Morondava,4,2,2
+Morristown,4,2,2
+Misima Island,4,2,2
+Milos,4,2,2
+Mount Gambier,4,2,2
+Misawa,4,2,2
+Minatitlan,4,2,2
+Chokurdah,4,2,2
+Mountain Village,4,2,2
+Mpacha,4,2,2
+Worcester,4,2,2
+Matthew Town,4,2,2
+Tupelo,4,2,2
+Naga,4,2,2
+Abbotsford,4,2,2
+Maniitsoq,4,2,2
+Narrandera,4,2,2
+Ciudad Victoria,4,2,2
+Barter Island,4,2,2
+Ayacucho,4,2,2
+Axum,4,2,2
+Basco,4,2,2
+Mammoth Lakes,4,2,2
+Malekula Island,4,2,2
+Malanje,4,2,2
+Naypyidaw,4,2,2
+Bata,4,2,2
+Neerlerit Inaat,4,2,2
+Neiva,4,2,2
+Tulita,4,2,2
+Tucuman,4,2,2
+Chuuk,4,2,2
+Nakhon Phanom,4,2,2
+Matsumoto,4,2,2
+Matamoros,4,2,2
+Mataiva,4,2,2
+Stella Maris,4,2,2
+Bario,4,2,2
+Nakashibetsu,4,2,2
+Nakhon Si Thammarat,4,2,2
+Badajoz,4,2,2
+Churchill Falls,4,2,2
+Marília,4,2,2
+Marshall,4,2,2
+Nan,4,2,2
+Nanaimo,4,2,2
+Tshikapa,4,2,2
+Owensboro,4,2,2
+Colonel Hill,4,2,2
+Tiksi,4,2,2
+Poplar Hill,4,2,2
+Kastelorizo,4,2,2
+Kassel,4,2,2
+Ponce,4,2,2
+Kasigluk,4,2,2
+Aracatuba,4,2,2
+Kashechewan,4,2,2
+Corozal,4,2,2
+Porbandar,4,2,2
+Kangiqsujuaq,4,2,2
+Kasabonika,4,2,2
+Pormpuraaw,4,2,2
+Cherskiy,4,2,2
+Karlstad,4,2,2
+Karamay,4,2,2
+Port Hardy,4,2,2
+Kangra,4,2,2
+Bodaibo,4,2,2
+Point Lay,4,2,2
+Bobo-dioulasso,4,2,2
+Valledupar,4,2,2
+Valdez,4,2,2
+Kimberley,4,2,2
+Arauca,4,2,2
+Valdivia,4,2,2
+Paama Island,4,2,2
+Piedras Negras,4,2,2
+Termez,4,2,2
+Suavanao,4,3,1
+Ketapang,4,2,2
+Kerteh,4,2,2
+Arar,4,2,2
+Piura,4,2,2
+Windorah,4,2,2
+Plovdiv,4,2,2
+Kegaska,4,2,2
+Port Lincoln,4,2,2
+Port Menier,4,2,2
+Kindu,4,2,2
+Jalapa,4,2,2
+Prince Pupert,4,2,2
+Zhezkazgan,4,2,2
+Ji-Paraná,4,2,2
+Borlange,4,2,2
+Boulia,4,2,2
+Jamestown,4,2,2
+Taupo,4,2,2
+Craiova,4,2,2
+Debrecen,4,2,2
+Puerto Cabello,4,2,2
+Jacksn Hole,4,2,2
+Bradford,4,2,2
+Ivujivik,4,2,2
+Tasiujaq,4,2,2
+Puerto Lempira,4,2,2
+Ivano-Frankivsk,4,2,2
+Yap,4,2,2
+Aniwa,4,2,2
+Presque Isle,4,2,2
+President Prudente,4,2,2
+Corvo,4,2,2
+Antwerp,4,2,2
+Kajaani,4,2,2
+Venetie,4,2,2
+South Caicos,4,2,2
+Kagau Island,4,2,2
+Bolzano,4,2,2
+Kaadedhdhoo,4,2,2
+Potosi,4,2,2
+Julia Creek,4,2,2
+Jujuy,4,2,2
+Juiz de Fora,4,2,2
+Joplin,4,2,2
+Johnstown,4,2,2
+Joenkoeping,4,2,2
+Zhangjiakou,4,2,2
+Khon Kaen,4,2,2
+King Island,4,2,2
+Pardubice,4,2,2
+Armidale,4,2,2
+Armenia,4,2,2
+Kudat,4,2,2
+Bhuj,4,2,2
+Parana,4,2,2
+Paraparaumu,4,2,2
+Koyukuk,4,2,2
+Pattaya,4,2,2
+Parkes,4,2,2
+Kowanyama,4,2,2
+Paros,4,2,2
+Thule,4,2,2
+Koumac,4,2,2
+Kosrae,4,2,2
+Kuito,4,2,2
+Ust-Kut,4,2,2
+Kunsan,4,2,2
+Usinsk,4,2,2
+Kuqa,4,2,2
+Kurgan,4,2,2
+Zaporozhye,4,2,2
+Bhaunagar,4,2,2
+St George,4,2,2
+Uruapan,4,2,2
+Arvidsjaur,4,2,2
+Pajala,4,2,2
+Tiga,4,2,2
+Pagadian,4,2,2
+Upington,4,2,2
+La Tabatière,4,2,2
+Paamiut,4,2,2
+Kooddoo,4,2,2
+Sioux City,4,2,2
+Spring Point,4,2,2
+Kingfisher Lake,4,2,2
+Petersburg,4,2,2
+Birjand,4,2,2
+Birdsville,4,2,2
+Thandwe,4,2,2
+Perigueux,4,2,2
+Chevak,4,2,2
+Kittila,4,2,2
+Klamath Falls,4,2,2
+Conson,4,2,2
+Petropavlosk,4,2,2
+Zarzaitine,4,2,2
+Koggala,4,2,2
+Kokshetau,4,2,2
+Arctic Bay,4,2,2
+Bingol,4,2,2
+Texarkana,4,2,2
+Jimma,3,1,2
+Blackall,3,2,1
+Pamplona,3,1,2
+Saidpur,3,1,2
+Ourilandia do Norte,3,2,1
+Coen,3,2,1
+Choiseul Bay,3,2,1
+Waala,3,1,2
+Tiaret,3,2,1
+Ghriss,3,1,2
+Amboseli National Park,3,1,2
+Saba,3,2,1
+Ivalo,3,1,2
+Gambella,3,1,2
+Asosa,3,2,1
+Fera Island,3,1,2
+Bella Coola,3,1,2
+Lodwar,3,2,1
+Beckley,3,1,2
+Kapuskasing,3,1,2
+Arba Minch,3,2,1
+Ziguinchor,3,1,2
+San Luis,3,2,1
+Gafsa,3,1,2
+Al Ghaidah Intl,3,2,1
+Flinders Island,3,2,1
+Scammon Bay,3,2,1
+Bahar Dar,3,1,2
+Atiu Island,3,2,1
+Weyers Cave,3,2,1
+Hao Island,3,1,2
+Patos de Minas,3,2,1
+Djanet,3,1,2
+Eday,3,2,1
+Wonju,2,1,1
+Sukhothai,2,1,1
+Sunyani,2,1,1
+Summer Beaver,2,1,1
+Wolf Point,2,1,1
+Île des Pins,2,1,1
+Touho,2,1,1
+Çorlu,2,1,1
+Umtata,2,1,1
+Zabol,2,1,1
+Tok,2,1,1
+Togiak Village,2,1,1
+Ulaangom,2,1,1
+Tiree,2,1,1
+Tingo Maria,2,1,1
+Tin City,2,1,1
+Timaru,2,1,1
+Whyalla,2,1,1
+Uruguaiana,2,1,1
+Uyo,2,1,1
+Uyuni,2,1,1
+Uzhgorod,2,1,1
+Thief River Falls,2,1,1
+Thargomindah,2,1,1
+Vail,2,1,1
+Twin Falls,2,1,1
+Turaif,2,1,1
+Tumling Tar,2,1,1
+Tumbes,2,1,1
+Touggourt,2,1,1
+Tottori,2,1,1
+Totegegie,2,1,1
+Trail,2,1,1
+Trat,2,1,1
+Trinciomalee,2,1,1
+Yola,2,1,1
+Topeka,2,1,1
+Trollhattan,2,1,1
+Trujillo,2,1,1
+Tongoa Island,2,1,1
+Yuzhno-Kurilsk,2,1,1
+Tucurui,2,1,1
+Tuktoyaktuk,2,1,1
+Tumaco,2,1,1
+Tetouan,2,1,1
+Teterboro,2,1,1
+Valesdir,2,1,1
+Walaha,2,1,1
+Tambow,2,1,1
+Wamena,2,1,1
+Wanganui,2,1,1
+Wapenamanda,2,1,1
+Takapoto,2,1,1
+Tak,2,1,1
+Yakima,2,1,1
+Wejh,2,1,1
+Tainan,2,1,1
+Wekweeti,2,1,1
+Wenatchee,2,1,1
+Westport,2,1,1
+Tabatinga,2,1,1
+Whakatane,2,1,1
+Whatì,2,1,1
+Walla Walla,2,1,1
+Wajima,2,1,1
+Vanua Balavu,2,1,1
+Waingapu,2,1,1
+Tena,2,1,1
+Veliky Ustyug,2,1,1
+Yasuj,2,1,1
+Yaroslavl,2,1,1
+Vernal,2,1,1
+Tebessa,2,1,1
+Tatalina,2,1,1
+Vilhena,2,1,1
+Villa Garzon,2,1,1
+Tarko-Sale,2,1,1
+Vinnitsa,2,1,1
+Virac,2,1,1
+Visalia,2,1,1
+Tan Tan,2,1,1
+Tamworth,2,1,1
+Viedma,2,1,1
+Loei,2,1,1
+Stockton,2,1,1
+Gyumri,2,1,1
+Grand Canyon,2,1,1
+Grise Fiord,2,1,1
+Grozny,2,1,1
+Guanaja,2,1,1
+Guanambi,2,1,1
+Guantanamo,2,1,1
+Guarapuava,2,1,1
+Guayaramerín,2,1,1
+Guemar,2,1,1
+Gunnison,2,1,1
+Gurupi,2,1,1
+Gwalior,2,1,1
+Hachijojima,2,1,1
+Kyaukpyu,2,1,1
+Hamadan,2,1,1
+Hana,2,1,1
+Hancock,2,1,1
+Hattiesburg/Laurel,2,1,1
+Havre,2,1,1
+Hayden,2,1,1
+Healy,2,1,1
+Hibbing,2,1,1
+Hobbs,2,1,1
+Hokitika,2,1,1
+Horn Island,2,1,1
+Hydaburg,2,1,1
+Grafton,2,1,1
+Graciosa Island,2,1,1
+Governador Valadares,2,1,1
+Gorno-Altaysk,2,1,1
+Eirunepe,2,1,1
+Elcho Island,2,1,1
+Elfin Cove,2,1,1
+Elista,2,1,1
+Elko,2,1,1
+Escanaba,2,1,1
+Eskissehir,2,1,1
+Fagernes,2,1,1
+False Pass,2,1,1
+Fengnin,2,1,1
+Formosa,2,1,1
+Fort Leonardwood,2,1,1
+Fort Mcpherson,2,1,1
+Friday Harbor,2,1,1
+Fujeirah,2,1,1
+Funafuti,2,1,1
+Gamètì,2,1,1
+Gelendzhik,2,1,1
+Gemena,2,1,1
+Ghadames,2,1,1
+Ghat,2,1,1
+Gilgit,2,1,1
+Glendive,2,1,1
+Gode,2,1,1
+Golouchestershire,2,1,1
+Ibadan,2,1,1
+Igarka,2,1,1
+Igiugig,2,1,1
+Kastamonu,2,1,1
+Kaukura Atoll,2,1,1
+Kawthoung,2,1,1
+Keewaywin,2,1,1
+Kengtung,2,1,1
+Kerikeri,2,1,1
+Khajuraho,2,1,1
+Khasab,2,1,1
+Khorram Abad,2,1,1
+Khovd,2,1,1
+Kimmirut,2,1,1
+King Cove,2,1,1
+Kingscote,2,1,1
+Kirksville,2,1,1
+Kitale,2,1,1
+Kogalym,2,1,1
+Kone,2,1,1
+Kongolo,2,1,1
+Kristianstad,2,1,1
+Kulu,2,1,1
+Kumejima,2,1,1
+Kundiawa,2,1,1
+Kuopio,2,1,1
+Kuressaare,2,1,1
+Stephenville,2,1,1
+Kutahya,2,1,1
+Kastoria,2,1,1
+Kasama,2,1,1
+Ilam,2,1,1
+Karup,2,1,1
+Iliamna,2,1,1
+Ilorin,2,1,1
+Ipiales,2,1,1
+Isafjordur,2,1,1
+Isiro,2,1,1
+Islay,2,1,1
+Isparta,2,1,1
+Ittoqqortoormiit,2,1,1
+Iwakuni,2,1,1
+Iwami,2,1,1
+Izumo,2,1,1
+Jamnagar,2,1,1
+Jaqué,2,1,1
+Joensuu,2,1,1
+Jolo,2,1,1
+Jonesboro,2,1,1
+Jos,2,1,1
+Kaduna,2,1,1
+Kaitaia,2,1,1
+Kamembe,2,1,1
+Kamuela,2,1,1
+Kangding,2,1,1
+Kangiqsualujjuaq,2,1,1
+Kanpur,2,1,1
+Kao,2,1,1
+Egilsstadir,2,1,1
+Egegik,2,1,1
+Eau Claire,2,1,1
+Atka,2,1,1
+Augsburg,2,1,1
+Augusta,2,1,1
+Aurillac,2,1,1
+Avalon,2,1,1
+Babo,2,1,1
+Bahia Solano,2,1,1
+Bakalalan,2,1,1
+Balikesir Korfez,2,1,1
+Bam,2,1,1
+Bar Harbor,2,1,1
+Barcaldine,2,1,1
+Barcelos,2,1,1
+Bardufoss,2,1,1
+Barisal,2,1,1
+Barra,2,1,1
+Barrancabermeja,2,1,1
+Bau-Bau,2,1,1
+Belgaum,2,1,1
+Belleville,2,1,1
+Bemidji,2,1,1
+Beslan,2,1,1
+Bhairawa,2,1,1
+Bharatpur,2,1,1
+Biratnagar,2,1,1
+Boende,2,1,1
+Atoifi,2,1,1
+Ataq,2,1,1
+Bojnourd,2,1,1
+Arxan,2,1,1
+Abu Simbel,2,1,1
+Adak Island,2,1,1
+Agatti Island,2,1,1
+Akhiok,2,1,1
+Akureyri,2,1,1
+Akutan,2,1,1
+Al Hociema,2,1,1
+Alta Floresta,2,1,1
+Altai,2,1,1
+Amberley,2,1,1
+Anahim Lake,2,1,1
+Andahuaylas,2,1,1
+Anelghowhat,2,1,1
+Angelsey,2,1,1
+Angoon,2,1,1
+Angouleme,2,1,1
+Anta,2,1,1
+Apatity,2,1,1
+Arad,2,1,1
+Araxa,2,1,1
+Arctic Village,2,1,1
+Argyle,2,1,1
+Arua,2,1,1
+Arusha,2,1,1
+Arutua,2,1,1
+Bointo,2,1,1
+Bole,2,1,1
+Eastsound,2,1,1
+Charlotte Amalie,2,1,1
+Chiclayo,2,1,1
+Chico,2,1,1
+Chimoio,2,1,1
+Chipata,2,1,1
+Chuathbaluk,2,1,1
+Chumphon,2,1,1
+Cicia,2,1,1
+Circle,2,1,1
+Coari,2,1,1
+Cocos Keeling Island,2,1,1
+Conceicao Do Araguaia,2,1,1
+Constanta,2,1,1
+Coober Pedy,2,1,1
+Coro,2,1,1
+Cortez,2,1,1
+Corumba,2,1,1
+Cruzeiro do Sul,2,1,1
+Culebra Island,2,1,1
+Cumana,2,1,1
+Dalbandin,2,1,1
+Devonport,2,1,1
+Dhangarhi,2,1,1
+Dienbienphu,2,1,1
+Dijon,2,1,1
+Dundee,2,1,1
+Chetumal,2,1,1
+Changuinola,2,1,1
+Bom Jesus Da Lapa,2,1,1
+Chandragarhi,2,1,1
+Bordj Badji Mokhtar,2,1,1
+Brac,2,1,1
+Brandon,2,1,1
+Brno,2,1,1
+Bukoba,2,1,1
+Burgos,2,1,1
+Buri Ram,2,1,1
+Butte,2,1,1
+Béchar,2,1,1
+Ca Mau,2,1,1
+Cacoal,2,1,1
+Calbayog City,2,1,1
+Camiguin,2,1,1
+Campbeltown,2,1,1
+Canaima,2,1,1
+Canakkale,2,1,1
+Cap Skiring,2,1,1
+Cape Girardeau,2,1,1
+Cape Lisburne,2,1,1
+Castro,2,1,1
+Catamarca,2,1,1
+Cauayan,2,1,1
+Cedar City,2,1,1
+Ceduna,2,1,1
+Central,2,1,1
+Kuusamo,2,1,1
+Kursk,2,1,1
+Kyzyl,2,1,1
+Pokhara,2,1,1
+Port Angeles,2,1,1
+Port Gentil,2,1,1
+Port Heiden,2,1,1
+Port Moller,2,1,1
+Portsmouth,2,1,1
+Posadas,2,1,1
+Poso,2,1,1
+Potgietersrus,2,1,1
+Powell River,2,1,1
+Praslin,2,1,1
+Prescott,2,1,1
+Providencia,2,1,1
+Provincetown,2,1,1
+Pueblo,2,1,1
+Puerto Ayacucho,2,1,1
+Puerto Leguízamo,2,1,1
+Puerto Madryn,2,1,1
+Puerto Obaldia,2,1,1
+Putao,2,1,1
+Qabala,2,1,1
+Quimper,2,1,1
+Quincy,2,1,1
+Rach Gia,2,1,1
+Rafha,2,1,1
+Rajshahi,2,1,1
+Popayan,2,1,1
+Pocatello,2,1,1
+Oshima,2,1,1
+Pilot Point,2,1,1
+Ostend,2,1,1
+PADUCAH,2,1,1
+La Fria,2,1,1
+Pago Pago,2,1,1
+Pai,2,1,1
+Pakuba,2,1,1
+Panjgur,2,1,1
+Parintins,2,1,1
+Parsabad,2,1,1
+Paulatuk,2,1,1
+Paulo Alfonso,2,1,1
+Peawanuck,2,1,1
+Pellston,2,1,1
+Pendleton,2,1,1
+Pentecost Island,2,1,1
+Penticton,2,1,1
+Penza,2,1,1
+Perryville,2,1,1
+Petrozavodsk,2,1,1
+Pevek,2,1,1
+Phalaborwa,2,1,1
+Phon Savan,2,1,1
+Phrae,2,1,1
+Pickle Lake,2,1,1
+Pietermaritzburg,2,1,1
+Ranai-Natuna Besar Island,2,1,1
+Ranong,2,1,1
+Redding,2,1,1
+Redencao,2,1,1
+Santa Isabel do Rio Negro,2,1,1
+Santiago Del Estero,2,1,1
+Sao Felix do Araguaia,2,1,1
+"Sao Filipe, Fogo Island",2,1,1
+Sao Gabriel,2,1,1
+Sao Paulo de Olivenca,2,1,1
+Saranac Lake,2,1,1
+Sarnia,2,1,1
+Sault Ste Marie,2,1,1
+Saumlaki,2,1,1
+Scottsbluff,2,1,1
+Sheridan,2,1,1
+Shillong,2,1,1
+Shonai,2,1,1
+Siargao,2,1,1
+Sidney,2,1,1
+Sihanoukville,2,1,1
+Skardu,2,1,1
+Skien,2,1,1
+Soenderborg,2,1,1
+Sokcho / Gangneung,2,1,1
+Sokoto,2,1,1
+Solovetsky Islands,2,1,1
+South Naknek,2,1,1
+St. Augustine Airport,2,1,1
+Santa Cruz/Graciosa Bay/Luova,2,1,1
+Santa Ana De Uairen,2,1,1
+Sangafa,2,1,1
+Ronne,2,1,1
+Resistencia,2,1,1
+Riberalta,2,1,1
+Richard's Bay,2,1,1
+Rio Hacha,2,1,1
+Rio Hondo,2,1,1
+Rio Verde,2,1,1
+Riverton WY,2,1,1
+Rockland,2,1,1
+Rodriguez Island,2,1,1
+Roi Et,2,1,1
+Rondonopolis,2,1,1
+Roros,2,1,1
+Sandspit,2,1,1
+Rotuma,2,1,1
+Roxana,2,1,1
+Rutland,2,1,1
+Sabzevar,2,1,1
+Sakon Nakhon,2,1,1
+Salamanca,2,1,1
+Salina,2,1,1
+Salt Cay,2,1,1
+San Martin Des Andes,2,1,1
+San Tome,2,1,1
+Sanandaj,2,1,1
+Osorno,2,1,1
+PARKERSBURG,2,1,1
+Orsk,2,1,1
+Mauke Island,2,1,1
+Ludhiaha,2,1,1
+Luena,2,1,1
+Lutselk'e,2,1,1
+M'banza-congo,2,1,1
+Macas,2,1,1
+Mae Hong Son,2,1,1
+Maewo Island,2,1,1
+Maio,2,1,1
+Makemo,2,1,1
+Mananara,2,1,1
+Mangaia Island,2,1,1
+Manistee,2,1,1
+Manizales,2,1,1
+Manley Hot Springs,2,1,1
+Mannheim,2,1,1
+Manta,2,1,1
+Manzini,2,1,1
+Marau,2,1,1
+Mare,2,1,1
+Margate,2,1,1
+Marion,2,1,1
+Maroua,2,1,1
+Ornskoldsvik,2,1,1
+Maseru,2,1,1
+Massena,2,1,1
+Luderitz,2,1,1
+Luang Namtha,2,1,1
+Los Alamos,2,1,1
+Le Havre,2,1,1
+La Gomera,2,1,1
+La Pedrera,2,1,1
+La Rioja,2,1,1
+Lahad Datu,2,1,1
+Lakeba Island,2,1,1
+Lampang,2,1,1
+Lancaster,2,1,1
+Land's End,2,1,1
+Lannion,2,1,1
+Laramie,2,1,1
+Larsen Bay,2,1,1
+Le Puy,2,1,1
+Loreto,2,1,1
+Lençóis,2,1,1
+Leon,2,1,1
+Lethbridge,2,1,1
+Limbang,2,1,1
+Lismore,2,1,1
+Lleida,2,1,1
+Lloydminster,2,1,1
+Logroño-Agoncillo,2,1,1
+Lokichoggio,2,1,1
+Longyan,2,1,1
+Lopez,2,1,1
+Masset,2,1,1
+Masbate,2,1,1
+Mayaguez,2,1,1
+N'gaoundere,2,1,1
+Nakhchivan,2,1,1
+Nanki-shirahama,2,1,1
+Napakiak,2,1,1
+Mbeya,2,1,1
+Narathiwat,2,1,1
+Narvik,2,1,1
+Nelson Lagoon,2,1,1
+Nepalgunj,2,1,1
+Nikolai,2,1,1
+Nikolski,2,1,1
+North Platte,2,1,1
+Nosara Beach,2,1,1
+Nuevo Laredo,2,1,1
+Nuquí,2,1,1
+Odate Noshiro,2,1,1
+Ogden,2,1,1
+Ogdensburg,2,1,1
+Ogoki Post,2,1,1
+Oksibil,2,1,1
+Olgii,2,1,1
+Olympic Dam,2,1,1
+Ondangwa,2,1,1
+Orange,2,1,1
+Oranjemund,2,1,1
+Orland,2,1,1
+Naha,2,1,1
+Napaskiak,2,1,1
+Mysore,2,1,1
+Moab,2,1,1
+McArthur River Mine,2,1,1
+McCook,2,1,1
+Medicine Hat,2,1,1
+Mekoryuk,2,1,1
+Melonguane,2,1,1
+Mendi,2,1,1
+Merced,2,1,1
+Meridian,2,1,1
+Muskegon,2,1,1
+Milingimbi,2,1,1
+Minacu,2,1,1
+Mitiaro Island,2,1,1
+Mfuwe,2,1,1
+Mocamedes,2,1,1
+Mostar,2,1,1
+Muscle Shoals,2,1,1
+Modesto,2,1,1
+Mtwara,2,1,1
+Mount Pleasant,2,1,1
+Muang Xay,2,1,1
+Monbetsu,2,1,1
+Moree,2,1,1
+Montrose CO,2,1,1
+0,1,1,0
+0,1,1,0
+0,1,1,0
+0,1,1,0
+0,1,1,0
+0,1,1,0
+Sao Felix do Xingu,1,0,1
+0,1,1,0
+Alofi,1,0,1
+Ovda,1,0,1
+Massawa,1,0,1
+Santa Terezinha,1,0,1
+Lodja,1,0,1
+0,1,1,0
