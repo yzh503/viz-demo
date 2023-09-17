@@ -23,7 +23,7 @@ export default function Sidebar() {
 
   return (
     <div className="col-start-1 col-end-2 bg-white p-4 flex flex-col items-center space-y-6">
-      <h1 className="text-2xl font-serif mb-6">Aviation Viz</h1>
+      <h1 className="text-2xl font-serif mb-6"><a href="/">Aviation Viz</a></h1>
       <nav>
         <ul className="space-y-4">
           <li className={`text-black hover:text-gray-500 px-10 py-2 rounded transition duration-300 ease-in-out ${pathname === '/global' ? 'bg-gray-200' : ''} rounded-md`}>
