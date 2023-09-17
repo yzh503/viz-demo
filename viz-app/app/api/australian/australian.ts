@@ -43,7 +43,7 @@ async function getAusLineData() {
 async function getAusIntlTrafficData() {
   try {
     const db = await getDatabase()
-    const collection = db.collection('aus-intl-traffic');
+    const collection = db.collection('aus-intl-traffic-predictions');
     const data = await collection.find({}).toArray();
     return data;
   } catch (e) {

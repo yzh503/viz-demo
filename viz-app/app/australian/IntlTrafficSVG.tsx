@@ -58,7 +58,8 @@ export const BarChart: React.FC<BarChartProps> = ({
     )
       .map(([date, dataMap]: [Date, Map<string, string>]) => [date, dataMap] as RollupData)
       .sort(([a], [b]) => d3.ascending(a, b));
-
+      
+    console.log(datevalues)
     function rank(value: (name: string) => number): RankData[] {
       const data: RankData[] = Array.from(names, name => ({ name, value: value(name) }));
       data.sort((a, b) => d3.descending(a.value, b.value));
