@@ -1,6 +1,6 @@
 import * as d3 from "d3";
 import { useRef, useEffect, useState } from "react";
-
+import Slider from '@mui/material/Slider';
 export interface Datum {
   name: string;
   value: string;
@@ -33,23 +33,23 @@ export const BarChart: React.FC<BarChartProps> = ({
   marginTop = 30,
   marginRight = 30,
   marginBottom = 0,
-  marginLeft = 175
+  marginLeft = 100
 }) => {
-  const [currentFrame, setCurrentFrame] = useState(0);
-  const [numberOfFrames, setNumberOfFrames] = useState(0);
+  const [currentFrame, setCurrentFrame] = useState(1);
+  const [numberOfFrames, setNumberOfFrames] = useState(1);
+  const [frameToYear, setFrameToYear] = useState<{ [key: number]: number }>({});
   const containerRef = useRef<HTMLDivElement | null>(null);
   const svgRef = useRef<SVGSVGElement | null>(null);
-  const duration = 2;
+  const duration = 1;
   const n = 10; // top 10 cities
   const k = 10;
   const barSize = 40;
   const height = marginTop + barSize * n + marginBottom;
-
+  
   useEffect(() => {
     d3.group(data, d => d.name)
 
     const names = new Set(data.map((d: Datum) => d.name))
-    console.log(data)
     const datevalues: RollupData[] = Array.from(
       d3.rollup(data,
         ([d]: Datum[]) => d.value,
@@ -81,6 +81,12 @@ export const BarChart: React.FC<BarChartProps> = ({
     keyframes.push([new Date(kb), rank(name => b.get(name) || 0)]);
     setNumberOfFrames(keyframes.length);
 
+    const frameToYear: { [key: number]: number } = {};
+    keyframes.forEach((keyframe, index) => {
+      frameToYear[index] = keyframe[0].getFullYear();
+    });
+    setFrameToYear(frameToYear);
+
     const nameframes = d3.groups(keyframes.flatMap(([, data]) => data), d => d.name);
     const prev = new Map(nameframes.flatMap(([, data]) => d3.pairs(data, (a, b) => [b, a])))
     const next = new Map(nameframes.flatMap(([, data]) => d3.pairs(data)))
@@ -89,7 +95,8 @@ export const BarChart: React.FC<BarChartProps> = ({
     const y = d3.scaleBand()
       .domain(d3.range(n + 1) as any)
       .rangeRound([marginTop, marginTop + barSize * (n + 1 + 0.1)])
-      .padding(0.1)
+      .padding(0.1);
+
 
 
     function bars(svg: any) {
@@ -214,9 +221,11 @@ export const BarChart: React.FC<BarChartProps> = ({
         .duration(duration)
         .ease(d3.easeLinear);
 
+      // if keyframes is undefined
+      if (keyframes[0][1].length === 0) {
+        return;
+      }
       const keyframe = keyframes[currentFrame];
-
-      if (keyframe[1].length < 1) return;
 
       x.domain([0, keyframe[1][0].value]);
 
@@ -233,17 +242,30 @@ export const BarChart: React.FC<BarChartProps> = ({
 
   }, [data, width, marginLeft, marginBottom, marginTop, marginRight, currentFrame]);
 
-  return (
 
+  return (
+    <>
+    <div ref={containerRef} className="pl-28 pr-28">
+      <Slider
+          className="w-1/2"
+          size="small"
+          defaultValue={1}
+          step={1}
+          min={1}
+          marks={false}
+          max={numberOfFrames-1}
+          valueLabelDisplay="auto"
+          valueLabelFormat={(value) => `${frameToYear[value]}`}
+          value={currentFrame}
+          onChange={(event, newValue) => {
+            setCurrentFrame(newValue as number);
+          }}
+        />
+    </div>
     <div ref={containerRef} className="text-xs">
-      <input
-        type="range"
-        min="0"
-        max={numberOfFrames - 1}
-        value={currentFrame}
-        onChange={(e) => setCurrentFrame(+e.target.value)}
-      />
       <svg ref={svgRef} width={width} height={height}></svg>
     </div>
+    </>
+    
   );
 };
