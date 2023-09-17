@@ -29,7 +29,10 @@ export default function Home() {
           Welcome to the aviation data analytics platform!
         </p>
 
-        <p className="mb-5">We aim to provide you with insightful visualisation to the aviation data from <a href="https://ourairports.com/data/" className="text-blue-600">ourairports.com</a> and <a href="https://openflights.org" className="text-blue-600">openflights.org</a></p>
+        <p className="mb-5">We aim to provide you with insightful visualisation to the aviation data from <a href="https://ourairports.com/data/" className="text-blue-600">ourairports.com</a> and <a href="https://openflights.org" className="text-blue-600">openflights.org</a>.</p>
+        
+        <p className="mb-5">This app retrieves data from MongoDB and visualises the data using D3.js and Tableau. All data are provided via GraphQL.</p>
+
         <p className="mb-5">
           <a href="https://github.com/yzh503/viz-demo" className="text-blue-600">Source Code</a> by Simon Yang
         </p>
