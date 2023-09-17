@@ -1,3 +1,4 @@
+"use client";
 import React, { useState, useEffect, useRef } from 'react';
 import { Datum, BarChart } from './AirportByCountrySVG';
 
@@ -58,14 +59,6 @@ const AirportByCountryPlot: React.FC = () => {
     }
   };
 
-  useEffect(() => {
-    handleResize();
-    window.addEventListener('resize', handleResize);
-
-    return () => {
-      window.removeEventListener('resize', handleResize);
-    };
-  }, []);
 
   useEffect(() => {
     fetchData((error, result) => {
@@ -77,6 +70,7 @@ const AirportByCountryPlot: React.FC = () => {
         setData(result.hierarchicalAirports[0]);
       }
     });
+    handleResize();
   }, []);
 
   return (

@@ -1,28 +1,22 @@
-import React, { useEffect, useRef } from 'react';
-import * as Tableau from 'tableau-api-js';
+import React from 'react';
+import dynamic from 'next/dynamic';
+
+// We dynamically import the TableauComponent, which will handle the tableau library and the Viz initialization
+const TableauComponent = dynamic(() => import('./TableauComponent'), {
+  ssr: false,
+  loading: () => <p>Loading...</p>
+});
 
 interface WorldAirRoutesProps {
-  url: string;  // URL of the Tableau visualization you want to embed
+  url: string; // URL of the Tableau visualization you want to embed
 }
 
 const WorldAirRoutes: React.FC<WorldAirRoutesProps> = ({ url }) => {
-  const vizContainerRef = useRef<HTMLDivElement>(null);
-
-  useEffect(() => {
-    if (vizContainerRef.current) {
-      // Initialize the Tableau visualization
-      const vizOptions = {
-        hideTabs: true,
-        onFirstInteractive: () => {
-          console.log("Tableau viz has loaded");
-        }
-      };
-
-      new Tableau.Viz(vizContainerRef.current, url, vizOptions);
-    }
-  }, [url]);
-
-  return <div ref={vizContainerRef}></div>;
-}
+  return (
+    <div>
+      <TableauComponent url={url} />
+    </div>
+  );
+};
 
 export default WorldAirRoutes;

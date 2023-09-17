@@ -1,3 +1,4 @@
+"use client";
 import React, { useState, useEffect, useRef } from 'react';
 import { Datum, ChordDiagram } from './DomesticTrafficSVG';
 
@@ -47,15 +48,6 @@ const IntlTrafficPlot: React.FC = () => {
   };
 
   useEffect(() => {
-    handleResize();
-    window.addEventListener('resize', handleResize);
-
-    return () => {
-      window.removeEventListener('resize', handleResize);
-    };
-  }, []);
-
-  useEffect(() => {
     fetchData((error, result) => {
       if (error) {
         console.error('Error fetching data:', error);
@@ -65,6 +57,7 @@ const IntlTrafficPlot: React.FC = () => {
         setData(result.domesticTraffic);
       }
     });
+    handleResize();
   }, []);
 
   return (
