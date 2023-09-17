@@ -34,7 +34,6 @@ export const BarChart: React.FC<BarChartProps> = ({
   
   useEffect(() => {
     d3.select(containerRef.current).selectAll("svg").remove();
-    console.log(data);
     const root = d3.hierarchy(data)
       .sum(d => d.value || 0)
       .sort((a, b) => (b.value || 0) - (a.value || 0))
@@ -44,7 +43,6 @@ export const BarChart: React.FC<BarChartProps> = ({
 
     const calculateHeight = (node: any) => {
       const numBars = node.children ? node.children.length : 1;
-      console.log(numBars, barStep, marginTop, marginBottom)
       return numBars * barStep + marginTop + marginBottom;
     };    
     
