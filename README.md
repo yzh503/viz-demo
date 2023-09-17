@@ -1,2 +1,3 @@
-# viz-demo
-Demo app of data visualisation using Next.js and Tableau
+# Aviation Visualisation
+
+We aim to provide you with insightful visualisation to the aviation data from ourairports.com and openflights.org. 
