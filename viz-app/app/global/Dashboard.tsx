@@ -29,7 +29,7 @@ const Dashboard: React.FC = () => {
         <AirportByCountryPlot />
 
         <h2 className="text-xl font-semibold">World Air Routes</h2>
-        <p className="text-xs">Move area by zooming in and out.</p>
+        <p className="text-xs">Select a source and tick all destination to see all routes from the source.</p>
         <WorldAirRoutes url="https://public.tableau.com/views/AirlineRoutes_16948663169810/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link" />
       </div>
     </main>
