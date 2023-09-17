@@ -93,7 +93,7 @@ export const ChordDiagram: React.FC<ChordDiagramProps> = ({ data, width }): JSX.
         </div>
 
       )}
-      <div ref={containerRef} className="text-xs mt-4">
+      <div ref={containerRef} className="text-xs m-4">
       </div>
     </div>
   );
