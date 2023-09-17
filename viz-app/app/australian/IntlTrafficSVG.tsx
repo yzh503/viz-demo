@@ -41,9 +41,9 @@ export const BarChart: React.FC<BarChartProps> = ({
   const containerRef = useRef<HTMLDivElement | null>(null);
   const svgRef = useRef<SVGSVGElement | null>(null);
   const duration = 1;
-  const n = 10; // top 10 cities
+  const n = 8; // top 10 cities
   const k = 10;
-  const barSize = 40;
+  const barSize = 50;
   const height = marginTop + barSize * n + marginBottom;
   
   useEffect(() => {
@@ -59,7 +59,6 @@ export const BarChart: React.FC<BarChartProps> = ({
       .map(([date, dataMap]: [Date, Map<string, string>]) => [date, dataMap] as RollupData)
       .sort(([a], [b]) => d3.ascending(a, b));
       
-    console.log(datevalues)
     function rank(value: (name: string) => number): RankData[] {
       const data: RankData[] = Array.from(names, name => ({ name, value: value(name) }));
       data.sort((a, b) => d3.descending(a.value, b.value));

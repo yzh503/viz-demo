@@ -23,9 +23,16 @@ const schema = buildSchema(`
     date: String
   }
 
+  type DomesticTraffic {
+    source: String
+    target: String
+    value: Int
+  }
+
   type Query {
     lines: [Line]
     intlTraffic: [Traffic]
+    domesticTraffic: [DomesticTraffic]
   }
 `);
 
@@ -51,9 +58,21 @@ async function getAusIntlTrafficData() {
   }
 }
 
+async function getAusDomesticTrafficData() {
+  try {
+    const db = await getDatabase()
+    const collection = db.collection('aus-domestic-traffic');
+    const data = await collection.find({}).toArray();
+    return data;
+  } catch (e) {
+    console.error(e);
+  }
+}
+
 const rootValue = {
   lines: () => getAusLineData(),
-  intlTraffic: () => getAusIntlTrafficData()
+  intlTraffic: () => getAusIntlTrafficData(),
+  domesticTraffic: () => getAusDomesticTrafficData()
 }
 
 export async function getAirports(source: string) {
