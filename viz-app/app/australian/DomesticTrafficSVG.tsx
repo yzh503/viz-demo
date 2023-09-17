@@ -38,10 +38,15 @@ export const ChordDiagram: React.FC<ChordDiagramProps> = ({ data, width }): JSX.
     if (data.length === 0) return;
 
     if (!containerRef.current) return;
+
+    const nodes = Array.from(
+      new Set(data.flatMap(d => [d.source, d.target]))
+    ).map(name => ({ name: name, category: name }));
+
     const svg: any = SankeyChart({
-      nodes: undefined, links: data
+      nodes: nodes,
+      links: data
     }, {
-      nodeGroup: (d: any) => d.id.split(/\W/)[0],
       width: width,
       height: 600
     } as any);

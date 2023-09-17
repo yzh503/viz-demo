@@ -61,7 +61,7 @@ const TopkBusiestCities: React.FC = () => {
     <>
       <div className="flex space-x-3 mb-5">
         {data.map((airline, index) => (
-          <div key={index} className="w-1/3 bg-white p-4 rounded border">
+          <div key={index} className="w-1/3 bg-white p-4 rounded border hover:bg-sky-100">
             <div className="text-l font-bold mb-2">{airline.name}</div>
             <div className="text-sm text-gray-600">IN: {airline.in} OUT: {airline.out}</div>
           </div>

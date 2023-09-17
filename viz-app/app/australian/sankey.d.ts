@@ -1,1 +1,1 @@
-export function SankeyChart(nodes: any, links: any): any;
+export function SankeyChart(data: any, options: any): any;

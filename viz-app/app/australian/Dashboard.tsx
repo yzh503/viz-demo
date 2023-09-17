@@ -14,7 +14,7 @@ const Dashboard: React.FC = () => {
       </div>
       <div className="grid grid-cols-1 gap-2 lg:max-w-6xl lg:w-full lg:grid-cols-1 lg:grid-rows-1 lg:text-left">
         <h2 className="text-xl font-semibold">Domestic Flight Traffic</h2>
-        <p className="text-xs">This diagram shows the passenger flow from one city to another. Click view more to select more cities.</p>
+        <p className="text-xs">This diagram shows the total passenger flow from one city to another over the past 10 years. Click view more to select more cities.</p>
 
         <DomesticTrafficPlot />
       </div>
