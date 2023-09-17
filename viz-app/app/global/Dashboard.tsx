@@ -25,9 +25,11 @@ const Dashboard: React.FC = () => {
         </div>
 
         <h2 className="text-xl font-semibold">International Airports by Country</h2>
+        <p className="text-xs">Click the bar to advance to the next level. Click on the white area or the x-axis to return.</p>
         <AirportByCountryPlot />
 
         <h2 className="text-xl font-semibold">World Air Routes</h2>
+        <p className="text-xs">Move area by zooming in and out.</p>
         <WorldAirRoutes url="https://public.tableau.com/views/AirlineRoutes_16948663169810/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link" />
       </div>
     </main>
