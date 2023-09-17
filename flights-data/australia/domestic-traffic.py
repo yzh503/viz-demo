@@ -2,11 +2,11 @@ import pandas as pd
 
 data = pd.read_csv('pairs-201912.csv')
 
-agg_data = data.groupby(['City1', 'City2'])['Seats'].sum().reset_index()
+agg_data = data.groupby(['City1', 'City2'])['Passenger_Trips'].sum().reset_index()
 
 agg_data.columns = ['source', 'target', 'value']
 
-agg_data['value'] = agg_data['value'] * 0.8
+agg_data['value'] = agg_data['value'] 
 agg_data['value'] = agg_data['value'].astype(int)
 
 # Convert source and target to upper case of first letter in each word
